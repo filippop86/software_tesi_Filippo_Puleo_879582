@@ -1,0 +1,41 @@
+t # 0
+v 0 organized
+v 1 VBN
+v 2 IN
+v 3 follows
+e 0 3 enabl
+e 1 0 pos
+e 1 2 next
+t # 0
+v 0 extracted
+v 1 VBN
+v 2 IN
+v 3 can
+e 0 3 enabl
+e 1 0 pos
+e 1 2 next
+t # 1
+v 0 presents
+v 1 VBZ
+v 2 WRB
+v 3 extracted
+e 0 3 enabl
+e 1 0 pos
+e 1 2 next
+t # 0
+v 0 describes
+v 1 VBZ
+v 2 WRB
+v 3 map
+e 0 3 enabl
+e 1 0 pos
+e 1 2 next
+t # 0
+v 0 describes
+v 1 VBZ
+v 2 WRB
+v 3 map
+e 0 3 enabl
+e 1 0 pos
+e 1 2 next
+t # -1
