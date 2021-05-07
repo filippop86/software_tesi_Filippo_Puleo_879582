@@ -1,0 +1,1259 @@
+SENTENCE:
+The remaining part of this paper is organized as follows.
+[The,the,DET,DT,det]
+[remaining,remain,VERB,VBG,amod]
+[part,part,NOUN,NN,nsubjpass]
+[of,of,ADP,IN,prep]
+[this,this,DET,DT,det]
+[paper,paper,NOUN,NN,pobj]
+[is,be,AUX,VBZ,auxpass]
+[organized,organize,VERB,VBN,ROOT]
+[as,as,SCONJ,IN,mark]
+[follows,follow,VERB,VBZ,advcl]
+[.,.,PUNCT,.,punct]
+VERB:
+[remaining, organized, follows]
+TOKEN HYPERNIUM: 
+[remaining] :[Synset('stay.v.01'), Synset('stay.v.04'), Synset('remain.v.03'), Synset('persist.v.03')]
+[[Synset('be.v.01'), Synset('stay.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('stay.v.01.stay'), Lemma('stay.v.01.remain'), Lemma('stay.v.01.rest')],['stay%2:30:00::', 'remain%2:30:00::', 'rest%2:30:00::'])
+[[Synset('be.v.01'), Synset('stay.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('stay.v.04.stay'), Lemma('stay.v.04.stay_on'), Lemma('stay.v.04.continue'), Lemma('stay.v.04.remain')],['stay%2:42:02::', 'stay_on%2:42:00::', 'continue%2:42:10::', 'remain%2:42:03::'])
+[[Synset('be.v.01'), Synset('remain.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('remain.v.03.remain')],['remain%2:42:05::'])
+[[Synset('persist.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('persist.v.03.persist'), Lemma('persist.v.03.remain'), Lemma('persist.v.03.stay')],['persist%2:42:01::', 'remain%2:42:01::', 'stay%2:42:04::'])
+TOKEN HYPERNIUM: 
+[organized] :[Synset('form.v.01'), Synset('organize.v.02'), Synset('mastermind.v.01'), Synset('organize.v.04'), Synset('organize.v.05'), Synset('unionize.v.02')]
+[[Synset('make.v.03'), Synset('form.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('form.v.01.form'), Lemma('form.v.01.organize'), Lemma('form.v.01.organise')],['form%2:41:00::', 'organize%2:41:01::', 'organise%2:41:01::'])
+[[Synset('control.v.01'), Synset('manage.v.02'), Synset('organize.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('control.v.01.control'), Lemma('control.v.01.command')],['control%2:41:00::', 'command%2:41:00::'])
+([Lemma('manage.v.02.manage'), Lemma('manage.v.02.deal'), Lemma('manage.v.02.care'), Lemma('manage.v.02.handle')],['manage%2:41:00::', 'deal%2:41:13::', 'care%2:41:11::', 'handle%2:41:00::'])
+([Lemma('organize.v.02.organize'), Lemma('organize.v.02.organise')],['organize%2:41:00::', 'organise%2:41:00::'])
+[[Synset('think.v.03'), Synset('plan.v.02'), Synset('mastermind.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('think.v.03.think'), Lemma('think.v.03.cogitate'), Lemma('think.v.03.cerebrate')],['think%2:31:00::', 'cogitate%2:31:00::', 'cerebrate%2:31:00::'])
+([Lemma('plan.v.02.plan')],['plan%2:31:00::'])
+([Lemma('mastermind.v.01.mastermind'), Lemma('mastermind.v.01.engineer'), Lemma('mastermind.v.01.direct'), Lemma('mastermind.v.01.organize'), Lemma('mastermind.v.01.organise'), Lemma('mastermind.v.01.orchestrate')],['mastermind%2:31:00::', 'engineer%2:31:00::', 'direct%2:31:00::', 'organize%2:31:00::', 'organise%2:31:00::', 'orchestrate%2:31:00::'])
+[[Synset('move.v.02'), Synset('put.v.01'), Synset('arrange.v.01'), Synset('organize.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.02.move'), Lemma('move.v.02.displace')],['move%2:38:01::', 'displace%2:38:02::'])
+([Lemma('put.v.01.put'), Lemma('put.v.01.set'), Lemma('put.v.01.place'), Lemma('put.v.01.pose'), Lemma('put.v.01.position'), Lemma('put.v.01.lay')],['put%2:35:00::', 'set%2:35:00::', 'place%2:35:00::', 'pose%2:35:02::', 'position%2:35:00::', 'lay%2:35:01::'])
+([Lemma('arrange.v.01.arrange'), Lemma('arrange.v.01.set_up')],['arrange%2:35:00::', 'set_up%2:35:00::'])
+([Lemma('organize.v.04.organize'), Lemma('organize.v.04.organise'), Lemma('organize.v.04.coordinate')],['organize%2:30:00::', 'organise%2:30:00::', 'coordinate%2:30:00::'])
+[[Synset('make.v.03'), Synset('cause.v.01'), Synset('initiate.v.02'), Synset('organize.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('cause.v.01.cause'), Lemma('cause.v.01.do'), Lemma('cause.v.01.make')],['cause%2:36:00::', 'do%2:36:02::', 'make%2:36:08::'])
+([Lemma('initiate.v.02.initiate'), Lemma('initiate.v.02.pioneer')],['initiate%2:36:00::', 'pioneer%2:36:01::'])
+([Lemma('organize.v.05.organize'), Lemma('organize.v.05.organise'), Lemma('organize.v.05.prepare'), Lemma('organize.v.05.devise'), Lemma('organize.v.05.get_up'), Lemma('organize.v.05.machinate')],['organize%2:36:00::', 'organise%2:36:00::', 'prepare%2:36:00::', 'devise%2:36:01::', 'get_up%2:36:00::', 'machinate%2:36:00::'])
+[[Synset('join.v.01'), Synset('unionize.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('join.v.01.join'), Lemma('join.v.01.fall_in'), Lemma('join.v.01.get_together')],['join%2:41:00::', 'fall_in%2:41:00::', 'get_together%2:41:02::'])
+([Lemma('unionize.v.02.unionize'), Lemma('unionize.v.02.unionise'), Lemma('unionize.v.02.organize'), Lemma('unionize.v.02.organise')],['unionize%2:41:00::', 'unionise%2:41:00::', 'organize%2:41:02::', 'organise%2:41:02::'])
+TOKEN HYPERNIUM: 
+[follows] :[Synset('follow.v.01'), Synset('postdate.v.01'), Synset('follow.v.03'), Synset('follow.v.04'), Synset('comply.v.01'), Synset('follow.v.06'), Synset('follow.v.07'), Synset('follow.v.08'), Synset('adopt.v.01'), Synset('follow.v.10'), Synset('take_after.v.02'), Synset('trace.v.01'), Synset('watch.v.02'), Synset('succeed.v.02'), Synset('play_along.v.02'), Synset('keep_up.v.04'), Synset('come.v.05'), Synset('follow.v.18'), Synset('follow.v.19'), Synset('be.v.08'), Synset('surveil.v.01'), Synset('pursue.v.02'), Synset('follow.v.23'), Synset('stick_to.v.02')]
+[[Synset('travel.v.01'), Synset('follow.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('travel.v.01.travel'), Lemma('travel.v.01.go'), Lemma('travel.v.01.move'), Lemma('travel.v.01.locomote')],['travel%2:38:00::', 'go%2:38:00::', 'move%2:38:03::', 'locomote%2:38:00::'])
+([Lemma('follow.v.01.follow')],['follow%2:38:00::'])
+[[Synset('postdate.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('postdate.v.01.postdate'), Lemma('postdate.v.01.follow')],['postdate%2:42:00::', 'follow%2:42:00::'])
+[[Synset('be.v.01'), Synset('prove.v.01'), Synset('result.v.01'), Synset('follow.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('prove.v.01.prove'), Lemma('prove.v.01.turn_out'), Lemma('prove.v.01.turn_up')],['prove%2:42:00::', 'turn_out%2:42:00::', 'turn_up%2:42:03::'])
+([Lemma('result.v.01.result'), Lemma('result.v.01.ensue')],['result%2:42:00::', 'ensue%2:42:00::'])
+([Lemma('follow.v.03.follow'), Lemma('follow.v.03.fall_out')],['follow%2:42:05::', 'fall_out%2:42:02::'])
+[[Synset('travel.v.01'), Synset('follow.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('travel.v.01.travel'), Lemma('travel.v.01.go'), Lemma('travel.v.01.move'), Lemma('travel.v.01.locomote')],['travel%2:38:00::', 'go%2:38:00::', 'move%2:38:03::', 'locomote%2:38:00::'])
+([Lemma('follow.v.04.follow'), Lemma('follow.v.04.travel_along')],['follow%2:38:01::', 'travel_along%2:38:00::'])
+[[Synset('change.v.02'), Synset('adjust.v.03'), Synset('obey.v.01'), Synset('comply.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('adjust.v.03.adjust'), Lemma('adjust.v.03.conform'), Lemma('adjust.v.03.adapt')],['adjust%2:30:01::', 'conform%2:30:01::', 'adapt%2:30:02::'])
+([Lemma('obey.v.01.obey')],['obey%2:41:00::'])
+([Lemma('comply.v.01.comply'), Lemma('comply.v.01.follow'), Lemma('comply.v.01.abide_by')],['comply%2:41:00::', 'follow%2:41:00::', 'abide_by%2:41:00::'])
+[[Synset('be.v.01'), Synset('prove.v.01'), Synset('result.v.01'), Synset('follow.v.06')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('prove.v.01.prove'), Lemma('prove.v.01.turn_out'), Lemma('prove.v.01.turn_up')],['prove%2:42:00::', 'turn_out%2:42:00::', 'turn_up%2:42:03::'])
+([Lemma('result.v.01.result'), Lemma('result.v.01.ensue')],['result%2:42:00::', 'ensue%2:42:00::'])
+([Lemma('follow.v.06.follow'), Lemma('follow.v.06.come_after')],['follow%2:42:01::', 'come_after%2:42:00::'])
+[[Synset('produce.v.02'), Synset('reproduce.v.01'), Synset('imitate.v.01'), Synset('follow.v.07')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('produce.v.02.produce'), Lemma('produce.v.02.make'), Lemma('produce.v.02.create')],['produce%2:36:00::', 'make%2:36:01::', 'create%2:36:03::'])
+([Lemma('reproduce.v.01.reproduce')],['reproduce%2:36:00::'])
+([Lemma('imitate.v.01.imitate'), Lemma('imitate.v.01.copy'), Lemma('imitate.v.01.simulate')],['imitate%2:36:00::', 'copy%2:36:00::', 'simulate%2:36:04::'])
+([Lemma('follow.v.07.follow'), Lemma('follow.v.07.conform_to')],['follow%2:30:00::', 'conform_to%2:30:00::'])
+[[Synset('be.v.03'), Synset('follow.v.08')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.03.be')],['be%2:42:05::'])
+([Lemma('follow.v.08.follow')],['follow%2:42:02::'])
+[[Synset('decide.v.01'), Synset('choose.v.01'), Synset('adopt.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('decide.v.01.decide'), Lemma('decide.v.01.make_up_one's_mind'), Lemma('decide.v.01.determine')],['decide%2:31:00::', "make_up_one's_mind%2:31:00::", 'determine%2:31:00::'])
+([Lemma('choose.v.01.choose'), Lemma('choose.v.01.take'), Lemma('choose.v.01.select'), Lemma('choose.v.01.pick_out')],['choose%2:31:00::', 'take%2:31:01::', 'select%2:31:00::', 'pick_out%2:31:00::'])
+([Lemma('adopt.v.01.adopt'), Lemma('adopt.v.01.follow'), Lemma('adopt.v.01.espouse')],['adopt%2:40:02::', 'follow%2:40:00::', 'espouse%2:40:00::'])
+[[Synset('follow.v.10')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('follow.v.10.follow')],['follow%2:42:03::'])
+[[Synset('produce.v.02'), Synset('reproduce.v.01'), Synset('imitate.v.01'), Synset('take_after.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('produce.v.02.produce'), Lemma('produce.v.02.make'), Lemma('produce.v.02.create')],['produce%2:36:00::', 'make%2:36:01::', 'create%2:36:03::'])
+([Lemma('reproduce.v.01.reproduce')],['reproduce%2:36:00::'])
+([Lemma('imitate.v.01.imitate'), Lemma('imitate.v.01.copy'), Lemma('imitate.v.01.simulate')],['imitate%2:36:00::', 'copy%2:36:00::', 'simulate%2:36:04::'])
+([Lemma('take_after.v.02.take_after'), Lemma('take_after.v.02.follow')],['take_after%2:36:00::', 'follow%2:36:00::'])
+[[Synset('analyze.v.01'), Synset('trace.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('analyze.v.01.analyze'), Lemma('analyze.v.01.analyse'), Lemma('analyze.v.01.study'), Lemma('analyze.v.01.examine'), Lemma('analyze.v.01.canvass'), Lemma('analyze.v.01.canvas')],['analyze%2:31:00::', 'analyse%2:31:00::', 'study%2:31:02::', 'examine%2:31:00::', 'canvass%2:31:02::', 'canvas%2:31:02::'])
+([Lemma('trace.v.01.trace'), Lemma('trace.v.01.follow')],['trace%2:31:00::', 'follow%2:31:00::'])
+[[Synset('analyze.v.01'), Synset('check.v.01'), Synset('watch.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('analyze.v.01.analyze'), Lemma('analyze.v.01.analyse'), Lemma('analyze.v.01.study'), Lemma('analyze.v.01.examine'), Lemma('analyze.v.01.canvass'), Lemma('analyze.v.01.canvas')],['analyze%2:31:00::', 'analyse%2:31:00::', 'study%2:31:02::', 'examine%2:31:00::', 'canvass%2:31:02::', 'canvas%2:31:02::'])
+([Lemma('check.v.01.check'), Lemma('check.v.01.check_up_on'), Lemma('check.v.01.look_into'), Lemma('check.v.01.check_out'), Lemma('check.v.01.suss_out'), Lemma('check.v.01.check_over'), Lemma('check.v.01.go_over'), Lemma('check.v.01.check_into')],['check%2:31:00::', 'check_up_on%2:31:00::', 'look_into%2:31:00::', 'check_out%2:31:00::', 'suss_out%2:31:00::', 'check_over%2:31:00::', 'go_over%2:31:01::', 'check_into%2:31:00::'])
+([Lemma('watch.v.02.watch'), Lemma('watch.v.02.observe'), Lemma('watch.v.02.follow'), Lemma('watch.v.02.watch_over'), Lemma('watch.v.02.keep_an_eye_on')],['watch%2:41:00::', 'observe%2:41:00::', 'follow%2:41:02::', 'watch_over%2:41:00::', 'keep_an_eye_on%2:41:00::'])
+[[Synset('succeed.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('succeed.v.02.succeed'), Lemma('succeed.v.02.come_after'), Lemma('succeed.v.02.follow')],['succeed%2:41:01::', 'come_after%2:41:00::', 'follow%2:41:01::'])
+[[Synset('make.v.03'), Synset('re-create.v.01'), Synset('perform.v.03'), Synset('play.v.03'), Synset('play_along.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('re-create.v.01.re-create')],['re-create%2:36:00::'])
+([Lemma('perform.v.03.perform')],['perform%2:36:01::'])
+([Lemma('play.v.03.play')],['play%2:36:12::'])
+([Lemma('play_along.v.02.play_along'), Lemma('play_along.v.02.accompany'), Lemma('play_along.v.02.follow')],['play_along%2:36:00::', 'accompany%2:36:00::', 'follow%2:36:01::'])
+[[Synset('keep_up.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('keep_up.v.04.keep_up'), Lemma('keep_up.v.04.keep_abreast'), Lemma('keep_up.v.04.follow')],['keep_up%2:30:00::', 'keep_abreast%2:30:02::', 'follow%2:30:01::'])
+[[Synset('become.v.03'), Synset('originate.v.01'), Synset('come.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('become.v.03.become')],['become%2:42:00::'])
+([Lemma('originate.v.01.originate'), Lemma('originate.v.01.arise'), Lemma('originate.v.01.rise'), Lemma('originate.v.01.develop'), Lemma('originate.v.01.uprise'), Lemma('originate.v.01.spring_up'), Lemma('originate.v.01.grow')],['originate%2:42:00::', 'arise%2:42:00::', 'rise%2:42:01::', 'develop%2:42:00::', 'uprise%2:42:02::', 'spring_up%2:42:00::', 'grow%2:42:00::'])
+([Lemma('come.v.05.come'), Lemma('come.v.05.follow')],['come%2:42:04::', 'follow%2:42:04::'])
+[[Synset('act.v.02'), Synset('follow.v.18')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.02.act'), Lemma('act.v.02.behave'), Lemma('act.v.02.do')],['act%2:29:00::', 'behave%2:29:00::', 'do%2:29:09::'])
+([Lemma('follow.v.18.follow')],['follow%2:41:10::'])
+[[Synset('practice.v.04'), Synset('follow.v.19')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('practice.v.04.practice'), Lemma('practice.v.04.apply'), Lemma('practice.v.04.use')],['practice%2:41:01::', 'apply%2:41:01::', 'use%2:41:04::'])
+([Lemma('follow.v.19.follow')],['follow%2:41:11::'])
+[[Synset('be.v.08')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.08.be'), Lemma('be.v.08.follow')],['be%2:41:00::', 'follow%2:41:09::'])
+[[Synset('surveil.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('surveil.v.01.surveil'), Lemma('surveil.v.01.follow'), Lemma('surveil.v.01.survey')],['surveil%2:39:00::', 'follow%2:39:13::', 'survey%2:39:13::'])
+[[Synset('travel.v.01'), Synset('pursue.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('travel.v.01.travel'), Lemma('travel.v.01.go'), Lemma('travel.v.01.move'), Lemma('travel.v.01.locomote')],['travel%2:38:00::', 'go%2:38:00::', 'move%2:38:03::', 'locomote%2:38:00::'])
+([Lemma('pursue.v.02.pursue'), Lemma('pursue.v.02.follow')],['pursue%2:38:00::', 'follow%2:38:13::'])
+[[Synset('understand.v.01'), Synset('follow.v.23')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('understand.v.01.understand')],['understand%2:31:00::'])
+([Lemma('follow.v.23.follow')],['follow%2:31:14::'])
+[[Synset('keep.v.01'), Synset('continue.v.03'), Synset('persevere.v.01'), Synset('stick_to.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('keep.v.01.keep'), Lemma('keep.v.01.maintain'), Lemma('keep.v.01.hold')],['keep%2:42:00::', 'maintain%2:42:00::', 'hold%2:42:00::'])
+([Lemma('continue.v.03.continue'), Lemma('continue.v.03.uphold'), Lemma('continue.v.03.carry_on'), Lemma('continue.v.03.bear_on'), Lemma('continue.v.03.preserve')],['continue%2:42:00::', 'uphold%2:42:00::', 'carry_on%2:42:00::', 'bear_on%2:42:01::', 'preserve%2:42:00::'])
+([Lemma('persevere.v.01.persevere'), Lemma('persevere.v.01.persist'), Lemma('persevere.v.01.hang_in'), Lemma('persevere.v.01.hang_on'), Lemma('persevere.v.01.hold_on')],['persevere%2:30:00::', 'persist%2:30:01::', 'hang_in%2:30:00::', 'hang_on%2:30:00::', 'hold_on%2:30:00::'])
+([Lemma('stick_to.v.02.stick_to'), Lemma('stick_to.v.02.stick_with'), Lemma('stick_to.v.02.follow')],['stick_to%2:30:00::', 'stick_with%2:30:00::', 'follow%2:30:12::'])
+TOKEN AND TOKEN NEXT LIST:
+[[The, remaining], [remaining, part], [part, of], [of, this], [this, paper], [paper, is], [is, organized], [organized, as], [as, follows], [follows, .]]
+TOKEN'S TAG AND TOKEN'S TAG NEXT LIST:
+[['DT', 'VBG'], ['VBG', 'NN'], ['NN', 'IN'], ['IN', 'DT'], ['DT', 'NN'], ['NN', 'VBZ'], ['VBZ', 'VBN'], ['VBN', 'IN'], ['IN', 'VBZ'], ['VBZ', '.']]
+ENABLEMENT'S TUPLE LIST:
+[[organized, as]]
+ENABLEMENT:
+{organized: follows}
+
+SENTENCE:
+Section 3 describes the methodology for building graph structures from text.
+[Section,section,NOUN,NN,nsubj]
+[3,3,NUM,CD,nummod]
+[describes,describe,VERB,VBZ,ROOT]
+[the,the,DET,DT,det]
+[methodology,methodology,NOUN,NN,dobj]
+[for,for,ADP,IN,prep]
+[building,build,VERB,VBG,pcomp]
+[graph,graph,NOUN,NN,compound]
+[structures,structure,NOUN,NNS,dobj]
+[from,from,ADP,IN,prep]
+[text,text,NOUN,NN,pobj]
+[.,.,PUNCT,.,punct]
+VERB:
+[describes, building]
+TOKEN HYPERNIUM: 
+[describes] :[Synset('describe.v.01'), Synset('report.v.01'), Synset('trace.v.02'), Synset('identify.v.05')]
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('explain.v.01'), Synset('clarify.v.01'), Synset('elaborate.v.01'), Synset('set_forth.v.01'), Synset('describe.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('explain.v.01.explain'), Lemma('explain.v.01.explicate')],['explain%2:32:00::', 'explicate%2:32:00::'])
+([Lemma('clarify.v.01.clarify'), Lemma('clarify.v.01.clear_up'), Lemma('clarify.v.01.elucidate')],['clarify%2:32:00::', 'clear_up%2:32:00::', 'elucidate%2:32:00::'])
+([Lemma('elaborate.v.01.elaborate'), Lemma('elaborate.v.01.lucubrate'), Lemma('elaborate.v.01.expatiate'), Lemma('elaborate.v.01.exposit'), Lemma('elaborate.v.01.enlarge'), Lemma('elaborate.v.01.flesh_out'), Lemma('elaborate.v.01.expand'), Lemma('elaborate.v.01.expound'), Lemma('elaborate.v.01.dilate')],['elaborate%2:32:00::', 'lucubrate%2:32:00::', 'expatiate%2:32:00::', 'exposit%2:32:01::', 'enlarge%2:32:04::', 'flesh_out%2:32:00::', 'expand%2:32:10::', 'expound%2:32:00::', 'dilate%2:32:10::'])
+([Lemma('set_forth.v.01.set_forth'), Lemma('set_forth.v.01.expound'), Lemma('set_forth.v.01.exposit')],['set_forth%2:32:00::', 'expound%2:32:01::', 'exposit%2:32:00::'])
+([Lemma('describe.v.01.describe'), Lemma('describe.v.01.depict'), Lemma('describe.v.01.draw')],['describe%2:32:00::', 'depict%2:32:01::', 'draw%2:32:00::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('report.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('report.v.01.report'), Lemma('report.v.01.describe'), Lemma('report.v.01.account')],['report%2:32:00::', 'describe%2:32:01::', 'account%2:32:02::'])
+[[Synset('change.v.01'), Synset('mark.v.05'), Synset('trace.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.01.change'), Lemma('change.v.01.alter'), Lemma('change.v.01.modify')],['change%2:30:01::', 'alter%2:30:01::', 'modify%2:30:10::'])
+([Lemma('mark.v.05.mark')],['mark%2:30:00::'])
+([Lemma('trace.v.02.trace'), Lemma('trace.v.02.draw'), Lemma('trace.v.02.line'), Lemma('trace.v.02.describe'), Lemma('trace.v.02.delineate')],['trace%2:35:00::', 'draw%2:35:01::', 'line%2:35:01::', 'describe%2:35:00::', 'delineate%2:35:00::'])
+[[Synset('identify.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('identify.v.05.identify'), Lemma('identify.v.05.discover'), Lemma('identify.v.05.key'), Lemma('identify.v.05.key_out'), Lemma('identify.v.05.distinguish'), Lemma('identify.v.05.describe'), Lemma('identify.v.05.name')],['identify%2:31:01::', 'discover%2:31:03::', 'key%2:31:00::', 'key_out%2:31:00::', 'distinguish%2:31:01::', 'describe%2:31:00::', 'name%2:31:01::'])
+TOKEN HYPERNIUM: 
+[building] :[Synset('construct.v.01'), Synset('build_up.v.02'), Synset('build.v.03'), Synset('build.v.04'), Synset('build.v.05'), Synset('build.v.06'), Synset('build.v.07'), Synset('build.v.08'), Synset('build_up.v.04'), Synset('build.v.10')]
+[[Synset('make.v.03'), Synset('construct.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('construct.v.01.construct'), Lemma('construct.v.01.build'), Lemma('construct.v.01.make')],['construct%2:36:00::', 'build%2:36:00::', 'make%2:36:13::'])
+[[Synset('change.v.02'), Synset('change_magnitude.v.01'), Synset('increase.v.01'), Synset('grow.v.02'), Synset('develop.v.10'), Synset('build_up.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_magnitude.v.01.change_magnitude')],['change_magnitude%2:30:00::'])
+([Lemma('increase.v.01.increase')],['increase%2:30:00::'])
+([Lemma('grow.v.02.grow')],['grow%2:30:00::'])
+([Lemma('develop.v.10.develop')],['develop%2:30:00::'])
+([Lemma('build_up.v.02.build_up'), Lemma('build_up.v.02.work_up'), Lemma('build_up.v.02.build'), Lemma('build_up.v.02.progress')],['build_up%2:30:00::', 'work_up%2:30:00::', 'build%2:30:00::', 'progress%2:30:01::'])
+[[Synset('make.v.03'), Synset('build.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('build.v.03.build'), Lemma('build.v.03.establish')],['build%2:36:09::', 'establish%2:36:10::'])
+[[Synset('change.v.01'), Synset('better.v.02'), Synset('build.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.01.change'), Lemma('change.v.01.alter'), Lemma('change.v.01.modify')],['change%2:30:01::', 'alter%2:30:01::', 'modify%2:30:10::'])
+([Lemma('better.v.02.better'), Lemma('better.v.02.improve'), Lemma('better.v.02.amend'), Lemma('better.v.02.ameliorate'), Lemma('better.v.02.meliorate')],['better%2:30:01::', 'improve%2:30:01::', 'amend%2:30:00::', 'ameliorate%2:30:01::', 'meliorate%2:30:01::'])
+([Lemma('build.v.04.build')],['build%2:30:02::'])
+[[Synset('control.v.01'), Synset('manage.v.02'), Synset('administer.v.01'), Synset('oversee.v.01'), Synset('build.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('control.v.01.control'), Lemma('control.v.01.command')],['control%2:41:00::', 'command%2:41:00::'])
+([Lemma('manage.v.02.manage'), Lemma('manage.v.02.deal'), Lemma('manage.v.02.care'), Lemma('manage.v.02.handle')],['manage%2:41:00::', 'deal%2:41:13::', 'care%2:41:11::', 'handle%2:41:00::'])
+([Lemma('administer.v.01.administer'), Lemma('administer.v.01.administrate')],['administer%2:41:00::', 'administrate%2:41:00::'])
+([Lemma('oversee.v.01.oversee'), Lemma('oversee.v.01.supervise'), Lemma('oversee.v.01.superintend'), Lemma('oversee.v.01.manage')],['oversee%2:41:00::', 'supervise%2:41:00::', 'superintend%2:41:00::', 'manage%2:41:01::'])
+([Lemma('build.v.05.build')],['build%2:41:00::'])
+[[Synset('create.v.02'), Synset('develop.v.01'), Synset('build.v.06')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('create.v.02.create')],['create%2:36:02::'])
+([Lemma('develop.v.01.develop')],['develop%2:36:01::'])
+([Lemma('build.v.06.build')],['build%2:36:04::'])
+[[Synset('act.v.01'), Synset('create.v.03'), Synset('build.v.07')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('create.v.03.create')],['create%2:36:01::'])
+([Lemma('build.v.07.build')],['build%2:36:10::'])
+[[Synset('establish.v.08'), Synset('build.v.08')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('establish.v.08.establish'), Lemma('establish.v.08.base'), Lemma('establish.v.08.ground'), Lemma('establish.v.08.found')],['establish%2:31:03::', 'base%2:31:00::', 'ground%2:31:00::', 'found%2:31:00::'])
+([Lemma('build.v.08.build')],['build%2:31:03::'])
+[[Synset('change.v.01'), Synset('increase.v.02'), Synset('build_up.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.01.change'), Lemma('change.v.01.alter'), Lemma('change.v.01.modify')],['change%2:30:01::', 'alter%2:30:01::', 'modify%2:30:10::'])
+([Lemma('increase.v.02.increase')],['increase%2:30:02::'])
+([Lemma('build_up.v.04.build_up'), Lemma('build_up.v.04.work_up'), Lemma('build_up.v.04.build'), Lemma('build_up.v.04.ramp_up')],['build_up%2:30:06::', 'work_up%2:30:06::', 'build%2:30:05::', 'ramp_up%2:30:00::'])
+[[Synset('change.v.02'), Synset('change_magnitude.v.01'), Synset('increase.v.01'), Synset('intensify.v.03'), Synset('build.v.10')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_magnitude.v.01.change_magnitude')],['change_magnitude%2:30:00::'])
+([Lemma('increase.v.01.increase')],['increase%2:30:00::'])
+([Lemma('intensify.v.03.intensify'), Lemma('intensify.v.03.deepen')],['intensify%2:30:00::', 'deepen%2:30:00::'])
+([Lemma('build.v.10.build')],['build%2:30:10::'])
+TOKEN AND TOKEN NEXT LIST:
+[[Section, 3], [3, describes], [describes, the], [the, methodology], [methodology, for], [for, building], [building, graph], [graph, structures], [structures, from], [from, text], [text, .]]
+TOKEN'S TAG AND TOKEN'S TAG NEXT LIST:
+[['NN', 'CD'], ['CD', 'VBZ'], ['VBZ', 'DT'], ['DT', 'NN'], ['NN', 'IN'], ['IN', 'VBG'], ['VBG', 'NN'], ['NN', 'NNS'], ['NNS', 'IN'], ['IN', 'NN'], ['NN', '.']]
+THERE ISN'T ENABLEMENT!
+
+SENTENCE:
+Section 4 presents how graph patterns can be extracted from these graph representations.
+[Section,section,NOUN,NN,nsubj]
+[4,4,NUM,CD,nummod]
+[presents,present,VERB,VBZ,ROOT]
+[how,how,ADV,WRB,advmod]
+[graph,graph,NOUN,NN,compound]
+[patterns,pattern,NOUN,NNS,nsubjpass]
+[can,can,VERB,MD,aux]
+[be,be,AUX,VB,auxpass]
+[extracted,extract,VERB,VBN,ccomp]
+[from,from,ADP,IN,prep]
+[these,these,DET,DT,det]
+[graph,graph,NOUN,NN,compound]
+[representations,representation,NOUN,NNS,pobj]
+[.,.,PUNCT,.,punct]
+VERB:
+[presents, can, extracted]
+TOKEN HYPERNIUM: 
+[presents] :[Synset('show.v.01'), Synset('present.v.02'), Synset('stage.v.01'), Synset('present.v.04'), Synset('present.v.05'), Synset('award.v.01'), Synset('give.v.08'), Synset('deliver.v.01'), Synset('introduce.v.01'), Synset('portray.v.04'), Synset('confront.v.03'), Synset('present.v.12'), Synset('salute.v.06')]
+[[Synset('show.v.04'), Synset('show.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('show.v.04.show')],['show%2:39:00::'])
+([Lemma('show.v.01.show'), Lemma('show.v.01.demo'), Lemma('show.v.01.exhibit'), Lemma('show.v.01.present'), Lemma('show.v.01.demonstrate')],['show%2:39:02::', 'demo%2:39:00::', 'exhibit%2:39:00::', 'present%2:39:00::', 'demonstrate%2:39:01::'])
+[[Synset('express.v.02'), Synset('state.v.01'), Synset('present.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('express.v.02.express'), Lemma('express.v.02.verbalize'), Lemma('express.v.02.verbalise'), Lemma('express.v.02.utter'), Lemma('express.v.02.give_tongue_to')],['express%2:32:00::', 'verbalize%2:32:03::', 'verbalise%2:32:03::', 'utter%2:32:01::', 'give_tongue_to%2:32:00::'])
+([Lemma('state.v.01.state'), Lemma('state.v.01.say'), Lemma('state.v.01.tell')],['state%2:32:00::', 'say%2:32:00::', 'tell%2:32:04::'])
+([Lemma('present.v.02.present'), Lemma('present.v.02.represent'), Lemma('present.v.02.lay_out')],['present%2:32:00::', 'represent%2:32:11::', 'lay_out%2:32:00::'])
+[[Synset('make.v.03'), Synset('re-create.v.01'), Synset('stage.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('re-create.v.01.re-create')],['re-create%2:36:00::'])
+([Lemma('stage.v.01.stage'), Lemma('stage.v.01.present'), Lemma('stage.v.01.represent')],['stage%2:36:00::', 'present%2:36:00::', 'represent%2:36:11::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('present.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('present.v.04.present'), Lemma('present.v.04.submit')],['present%2:40:01::', 'submit%2:40:00::'])
+[[Synset('constitute.v.01'), Synset('present.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('constitute.v.01.constitute'), Lemma('constitute.v.01.represent'), Lemma('constitute.v.01.make_up'), Lemma('constitute.v.01.comprise'), Lemma('constitute.v.01.be')],['constitute%2:42:00::', 'represent%2:42:00::', 'make_up%2:42:00::', 'comprise%2:42:03::', 'be%2:42:02::'])
+([Lemma('present.v.05.present'), Lemma('present.v.05.pose')],['present%2:42:00::', 'pose%2:42:00::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('distribute.v.01'), Synset('assign.v.02'), Synset('allocate.v.01'), Synset('award.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('distribute.v.01.distribute'), Lemma('distribute.v.01.administer'), Lemma('distribute.v.01.mete_out'), Lemma('distribute.v.01.deal'), Lemma('distribute.v.01.parcel_out'), Lemma('distribute.v.01.lot'), Lemma('distribute.v.01.dispense'), Lemma('distribute.v.01.shell_out'), Lemma('distribute.v.01.deal_out'), Lemma('distribute.v.01.dish_out'), Lemma('distribute.v.01.allot'), Lemma('distribute.v.01.dole_out')],['distribute%2:40:00::', 'administer%2:40:00::', 'mete_out%2:40:00::', 'deal%2:40:01::', 'parcel_out%2:40:00::', 'lot%2:40:00::', 'dispense%2:40:00::', 'shell_out%2:40:00::', 'deal_out%2:40:00::', 'dish_out%2:40:00::', 'allot%2:40:02::', 'dole_out%2:40:00::'])
+([Lemma('assign.v.02.assign'), Lemma('assign.v.02.allot'), Lemma('assign.v.02.portion')],['assign%2:40:01::', 'allot%2:40:01::', 'portion%2:40:00::'])
+([Lemma('allocate.v.01.allocate'), Lemma('allocate.v.01.apportion')],['allocate%2:40:00::', 'apportion%2:40:01::'])
+([Lemma('award.v.01.award'), Lemma('award.v.01.present')],['award%2:40:00::', 'present%2:40:02::'])
+[[Synset('give.v.08')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('give.v.08.give'), Lemma('give.v.08.gift'), Lemma('give.v.08.present')],['give%2:40:01::', 'gift%2:40:00::', 'present%2:40:00::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('talk.v.02'), Synset('deliver.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('talk.v.02.talk'), Lemma('talk.v.02.speak'), Lemma('talk.v.02.utter'), Lemma('talk.v.02.mouth'), Lemma('talk.v.02.verbalize'), Lemma('talk.v.02.verbalise')],['talk%2:32:00::', 'speak%2:32:00::', 'utter%2:32:00::', 'mouth%2:32:00::', 'verbalize%2:32:00::', 'verbalise%2:32:00::'])
+([Lemma('deliver.v.01.deliver'), Lemma('deliver.v.01.present')],['deliver%2:32:00::', 'present%2:32:02::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('introduce.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('introduce.v.01.introduce'), Lemma('introduce.v.01.present'), Lemma('introduce.v.01.acquaint')],['introduce%2:32:00::', 'present%2:32:01::', 'acquaint%2:32:00::'])
+[[Synset('make.v.03'), Synset('re-create.v.01'), Synset('represent.v.09'), Synset('portray.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('re-create.v.01.re-create')],['re-create%2:36:00::'])
+([Lemma('represent.v.09.represent'), Lemma('represent.v.09.interpret')],['represent%2:36:01::', 'interpret%2:36:01::'])
+([Lemma('portray.v.04.portray'), Lemma('portray.v.04.present')],['portray%2:36:02::', 'present%2:36:08::'])
+[[Synset('confront.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('confront.v.03.confront'), Lemma('confront.v.03.face'), Lemma('confront.v.03.present')],['confront%2:32:03::', 'face%2:32:03::', 'present%2:32:06::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('introduce.v.01'), Synset('present.v.12')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('introduce.v.01.introduce'), Lemma('introduce.v.01.present'), Lemma('introduce.v.01.acquaint')],['introduce%2:32:00::', 'present%2:32:01::', 'acquaint%2:32:00::'])
+([Lemma('present.v.12.present')],['present%2:32:04::'])
+[[Synset('travel.v.01'), Synset('come.v.01'), Synset('address.v.09'), Synset('greet.v.01'), Synset('salute.v.06')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('travel.v.01.travel'), Lemma('travel.v.01.go'), Lemma('travel.v.01.move'), Lemma('travel.v.01.locomote')],['travel%2:38:00::', 'go%2:38:00::', 'move%2:38:03::', 'locomote%2:38:00::'])
+([Lemma('come.v.01.come'), Lemma('come.v.01.come_up')],['come%2:38:00::', 'come_up%2:38:02::'])
+([Lemma('address.v.09.address'), Lemma('address.v.09.accost'), Lemma('address.v.09.come_up_to')],['address%2:32:01::', 'accost%2:32:01::', 'come_up_to%2:32:00::'])
+([Lemma('greet.v.01.greet'), Lemma('greet.v.01.recognize'), Lemma('greet.v.01.recognise')],['greet%2:32:00::', 'recognize%2:32:01::', 'recognise%2:32:01::'])
+([Lemma('salute.v.06.salute'), Lemma('salute.v.06.present')],['salute%2:32:01::', 'present%2:32:03::'])
+TOKEN HYPERNIUM: 
+[can] :[Synset('can.v.01'), Synset('displace.v.03')]
+[[Synset('make.v.03'), Synset('create_from_raw_material.v.01'), Synset('cook.v.02'), Synset('preserve.v.04'), Synset('can.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('create_from_raw_material.v.01.create_from_raw_material'), Lemma('create_from_raw_material.v.01.create_from_raw_stuff')],['create_from_raw_material%2:36:00::', 'create_from_raw_stuff%2:36:00::'])
+([Lemma('cook.v.02.cook'), Lemma('cook.v.02.fix'), Lemma('cook.v.02.ready'), Lemma('cook.v.02.make'), Lemma('cook.v.02.prepare')],['cook%2:36:00::', 'fix%2:36:00::', 'ready%2:36:00::', 'make%2:36:07::', 'prepare%2:36:01::'])
+([Lemma('preserve.v.04.preserve'), Lemma('preserve.v.04.keep')],['preserve%2:30:00::', 'keep%2:30:10::'])
+([Lemma('can.v.01.can'), Lemma('can.v.01.tin'), Lemma('can.v.01.put_up')],['can%2:30:00::', 'tin%2:30:00::', 'put_up%2:30:00::'])
+[[Synset('remove.v.02'), Synset('displace.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('remove.v.02.remove')],['remove%2:41:00::'])
+([Lemma('displace.v.03.displace'), Lemma('displace.v.03.fire'), Lemma('displace.v.03.give_notice'), Lemma('displace.v.03.can'), Lemma('displace.v.03.dismiss'), Lemma('displace.v.03.give_the_axe'), Lemma('displace.v.03.send_away'), Lemma('displace.v.03.sack'), Lemma('displace.v.03.force_out'), Lemma('displace.v.03.give_the_sack'), Lemma('displace.v.03.terminate')],['displace%2:41:04::', 'fire%2:41:00::', 'give_notice%2:41:00::', 'can%2:41:00::', 'dismiss%2:41:00::', 'give_the_axe%2:41:00::', 'send_away%2:41:00::', 'sack%2:41:00::', 'force_out%2:41:00::', 'give_the_sack%2:41:00::', 'terminate%2:41:01::'])
+TOKEN HYPERNIUM: 
+[extracted] :[Synset('extract.v.01'), Synset('extract.v.02'), Synset('educe.v.01'), Synset('distill.v.03'), Synset('extract.v.05'), Synset('press_out.v.03'), Synset('excerpt.v.01'), Synset('extract.v.08')]
+[[Synset('remove.v.01'), Synset('extract.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('remove.v.01.remove'), Lemma('remove.v.01.take'), Lemma('remove.v.01.take_away'), Lemma('remove.v.01.withdraw')],['remove%2:30:00::', 'take%2:30:00::', 'take_away%2:30:01::', 'withdraw%2:30:01::'])
+([Lemma('extract.v.01.extract'), Lemma('extract.v.01.pull_out'), Lemma('extract.v.01.pull'), Lemma('extract.v.01.pull_up'), Lemma('extract.v.01.take_out'), Lemma('extract.v.01.draw_out')],['extract%2:35:04::', 'pull_out%2:35:00::', 'pull%2:35:10::', 'pull_up%2:35:00::', 'take_out%2:35:09::', 'draw_out%2:35:05::'])
+[[Synset('get.v.01'), Synset('obtain.v.01'), Synset('extract.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('get.v.01.get'), Lemma('get.v.01.acquire')],['get%2:40:00::', 'acquire%2:40:00::'])
+([Lemma('obtain.v.01.obtain')],['obtain%2:40:00::'])
+([Lemma('extract.v.02.extract')],['extract%2:40:00::'])
+[[Synset('understand.v.01'), Synset('interpret.v.01'), Synset('educe.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('understand.v.01.understand')],['understand%2:31:00::'])
+([Lemma('interpret.v.01.interpret'), Lemma('interpret.v.01.construe'), Lemma('interpret.v.01.see')],['interpret%2:31:00::', 'construe%2:31:00::', 'see%2:31:13::'])
+([Lemma('educe.v.01.educe'), Lemma('educe.v.01.evoke'), Lemma('educe.v.01.elicit'), Lemma('educe.v.01.extract'), Lemma('educe.v.01.draw_out')],['educe%2:36:00::', 'evoke%2:36:01::', 'elicit%2:36:00::', 'extract%2:36:00::', 'draw_out%2:36:00::'])
+[[Synset('make.v.03'), Synset('distill.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('distill.v.03.distill'), Lemma('distill.v.03.extract'), Lemma('distill.v.03.distil')],['distill%2:30:02::', 'extract%2:30:00::', 'distil%2:30:02::'])
+[[Synset('change.v.02'), Synset('change_integrity.v.01'), Synset('separate.v.05'), Synset('extract.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_integrity.v.01.change_integrity')],['change_integrity%2:30:00::'])
+([Lemma('separate.v.05.separate')],['separate%2:35:02::'])
+([Lemma('extract.v.05.extract')],['extract%2:35:07::'])
+[[Synset('get.v.01'), Synset('press_out.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('get.v.01.get'), Lemma('get.v.01.acquire')],['get%2:40:00::', 'acquire%2:40:00::'])
+([Lemma('press_out.v.03.press_out'), Lemma('press_out.v.03.express'), Lemma('press_out.v.03.extract')],['press_out%2:35:09::', 'express%2:35:11::', 'extract%2:35:05::'])
+[[Synset('decide.v.01'), Synset('choose.v.01'), Synset('excerpt.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('decide.v.01.decide'), Lemma('decide.v.01.make_up_one's_mind'), Lemma('decide.v.01.determine')],['decide%2:31:00::', "make_up_one's_mind%2:31:00::", 'determine%2:31:00::'])
+([Lemma('choose.v.01.choose'), Lemma('choose.v.01.take'), Lemma('choose.v.01.select'), Lemma('choose.v.01.pick_out')],['choose%2:31:00::', 'take%2:31:01::', 'select%2:31:00::', 'pick_out%2:31:00::'])
+([Lemma('excerpt.v.01.excerpt'), Lemma('excerpt.v.01.extract'), Lemma('excerpt.v.01.take_out')],['excerpt%2:31:00::', 'extract%2:31:00::', 'take_out%2:31:01::'])
+[[Synset('think.v.03'), Synset('reason.v.03'), Synset('calculate.v.01'), Synset('extract.v.08')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('think.v.03.think'), Lemma('think.v.03.cogitate'), Lemma('think.v.03.cerebrate')],['think%2:31:00::', 'cogitate%2:31:00::', 'cerebrate%2:31:00::'])
+([Lemma('reason.v.03.reason')],['reason%2:31:00::'])
+([Lemma('calculate.v.01.calculate'), Lemma('calculate.v.01.cipher'), Lemma('calculate.v.01.cypher'), Lemma('calculate.v.01.compute'), Lemma('calculate.v.01.work_out'), Lemma('calculate.v.01.reckon'), Lemma('calculate.v.01.figure')],['calculate%2:31:00::', 'cipher%2:31:00::', 'cypher%2:31:00::', 'compute%2:31:00::', 'work_out%2:31:06::', 'reckon%2:31:01::', 'figure%2:31:00::'])
+([Lemma('extract.v.08.extract')],['extract%2:31:02::'])
+TOKEN AND TOKEN NEXT LIST:
+[[Section, 4], [4, presents], [presents, how], [how, graph], [graph, patterns], [patterns, can], [can, be], [be, extracted], [extracted, from], [from, these], [these, graph], [graph, representations], [representations, .]]
+TOKEN'S TAG AND TOKEN'S TAG NEXT LIST:
+[['NN', 'CD'], ['CD', 'VBZ'], ['VBZ', 'WRB'], ['WRB', 'NN'], ['NN', 'NNS'], ['NNS', 'MD'], ['MD', 'VB'], ['VB', 'VBN'], ['VBN', 'IN'], ['IN', 'DT'], ['DT', 'NN'], ['NN', 'NNS'], ['NNS', '.']]
+ENABLEMENT'S TUPLE LIST:
+[[extracted, from], [presents, how]]
+ENABLEMENT:
+{extracted: can, presents: extracted}
+
+SENTENCE:
+Section 5 describes how graph patterns map back to a graph representation corresponding to a given event pair.
+[Section,section,NOUN,NN,nsubj]
+[5,5,NUM,CD,nummod]
+[describes,describe,VERB,VBZ,ROOT]
+[how,how,ADV,WRB,advmod]
+[graph,graph,NOUN,NN,compound]
+[patterns,pattern,NOUN,NNS,nsubj]
+[map,map,VERB,VBP,ccomp]
+[back,back,ADV,RB,advmod]
+[to,to,ADP,IN,prep]
+[a,a,DET,DT,det]
+[graph,graph,NOUN,NN,compound]
+[representation,representation,NOUN,NN,pobj]
+[corresponding,correspond,VERB,VBG,amod]
+[to,to,ADP,IN,prep]
+[a,a,DET,DT,det]
+[given,give,VERB,VBN,amod]
+[event,event,NOUN,NN,compound]
+[pair,pair,NOUN,NN,pobj]
+[.,.,PUNCT,.,punct]
+VERB:
+[describes, map, corresponding, given]
+TOKEN HYPERNIUM: 
+[describes] :[Synset('describe.v.01'), Synset('report.v.01'), Synset('trace.v.02'), Synset('identify.v.05')]
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('explain.v.01'), Synset('clarify.v.01'), Synset('elaborate.v.01'), Synset('set_forth.v.01'), Synset('describe.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('explain.v.01.explain'), Lemma('explain.v.01.explicate')],['explain%2:32:00::', 'explicate%2:32:00::'])
+([Lemma('clarify.v.01.clarify'), Lemma('clarify.v.01.clear_up'), Lemma('clarify.v.01.elucidate')],['clarify%2:32:00::', 'clear_up%2:32:00::', 'elucidate%2:32:00::'])
+([Lemma('elaborate.v.01.elaborate'), Lemma('elaborate.v.01.lucubrate'), Lemma('elaborate.v.01.expatiate'), Lemma('elaborate.v.01.exposit'), Lemma('elaborate.v.01.enlarge'), Lemma('elaborate.v.01.flesh_out'), Lemma('elaborate.v.01.expand'), Lemma('elaborate.v.01.expound'), Lemma('elaborate.v.01.dilate')],['elaborate%2:32:00::', 'lucubrate%2:32:00::', 'expatiate%2:32:00::', 'exposit%2:32:01::', 'enlarge%2:32:04::', 'flesh_out%2:32:00::', 'expand%2:32:10::', 'expound%2:32:00::', 'dilate%2:32:10::'])
+([Lemma('set_forth.v.01.set_forth'), Lemma('set_forth.v.01.expound'), Lemma('set_forth.v.01.exposit')],['set_forth%2:32:00::', 'expound%2:32:01::', 'exposit%2:32:00::'])
+([Lemma('describe.v.01.describe'), Lemma('describe.v.01.depict'), Lemma('describe.v.01.draw')],['describe%2:32:00::', 'depict%2:32:01::', 'draw%2:32:00::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('report.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('report.v.01.report'), Lemma('report.v.01.describe'), Lemma('report.v.01.account')],['report%2:32:00::', 'describe%2:32:01::', 'account%2:32:02::'])
+[[Synset('change.v.01'), Synset('mark.v.05'), Synset('trace.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.01.change'), Lemma('change.v.01.alter'), Lemma('change.v.01.modify')],['change%2:30:01::', 'alter%2:30:01::', 'modify%2:30:10::'])
+([Lemma('mark.v.05.mark')],['mark%2:30:00::'])
+([Lemma('trace.v.02.trace'), Lemma('trace.v.02.draw'), Lemma('trace.v.02.line'), Lemma('trace.v.02.describe'), Lemma('trace.v.02.delineate')],['trace%2:35:00::', 'draw%2:35:01::', 'line%2:35:01::', 'describe%2:35:00::', 'delineate%2:35:00::'])
+[[Synset('identify.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('identify.v.05.identify'), Lemma('identify.v.05.discover'), Lemma('identify.v.05.key'), Lemma('identify.v.05.key_out'), Lemma('identify.v.05.distinguish'), Lemma('identify.v.05.describe'), Lemma('identify.v.05.name')],['identify%2:31:01::', 'discover%2:31:03::', 'key%2:31:00::', 'key_out%2:31:00::', 'distinguish%2:31:01::', 'describe%2:31:00::', 'name%2:31:01::'])
+TOKEN HYPERNIUM: 
+[map] :[Synset('map.v.01'), Synset('map.v.02'), Synset('map.v.03'), Synset('map.v.04'), Synset('map.v.05'), Synset('map.v.06')]
+[[Synset('make.v.03'), Synset('re-create.v.01'), Synset('represent.v.09'), Synset('map.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('re-create.v.01.re-create')],['re-create%2:36:00::'])
+([Lemma('represent.v.09.represent'), Lemma('represent.v.09.interpret')],['represent%2:36:01::', 'interpret%2:36:01::'])
+([Lemma('map.v.01.map')],['map%2:36:00::'])
+[[Synset('analyze.v.01'), Synset('investigate.v.01'), Synset('explore.v.02'), Synset('map.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('analyze.v.01.analyze'), Lemma('analyze.v.01.analyse'), Lemma('analyze.v.01.study'), Lemma('analyze.v.01.examine'), Lemma('analyze.v.01.canvass'), Lemma('analyze.v.01.canvas')],['analyze%2:31:00::', 'analyse%2:31:00::', 'study%2:31:02::', 'examine%2:31:00::', 'canvass%2:31:02::', 'canvas%2:31:02::'])
+([Lemma('investigate.v.01.investigate'), Lemma('investigate.v.01.look_into')],['investigate%2:32:00::', 'look_into%2:32:00::'])
+([Lemma('explore.v.02.explore')],['explore%2:31:01::'])
+([Lemma('map.v.02.map')],['map%2:31:01::'])
+[[Synset('determine.v.01'), Synset('situate.v.01'), Synset('map.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('determine.v.01.determine'), Lemma('determine.v.01.find'), Lemma('determine.v.01.find_out'), Lemma('determine.v.01.ascertain')],['determine%2:32:00::', 'find%2:32:00::', 'find_out%2:32:00::', 'ascertain%2:32:01::'])
+([Lemma('situate.v.01.situate'), Lemma('situate.v.01.locate')],['situate%2:42:00::', 'locate%2:42:00::'])
+([Lemma('map.v.03.map')],['map%2:42:00::'])
+[[Synset('make.v.03'), Synset('create_by_mental_act.v.01'), Synset('plan.v.03'), Synset('map.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('create_by_mental_act.v.01.create_by_mental_act'), Lemma('create_by_mental_act.v.01.create_mentally')],['create_by_mental_act%2:36:00::', 'create_mentally%2:36:00::'])
+([Lemma('plan.v.03.plan'), Lemma('plan.v.03.project'), Lemma('plan.v.03.contrive'), Lemma('plan.v.03.design')],['plan%2:36:00::', 'project%2:36:01::', 'contrive%2:36:01::', 'design%2:36:02::'])
+([Lemma('map.v.04.map'), Lemma('map.v.04.map_out')],['map%2:36:03::', 'map_out%2:36:03::'])
+[[Synset('make.v.03'), Synset('re-create.v.01'), Synset('represent.v.09'), Synset('picture.v.02'), Synset('map.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('re-create.v.01.re-create')],['re-create%2:36:00::'])
+([Lemma('represent.v.09.represent'), Lemma('represent.v.09.interpret')],['represent%2:36:01::', 'interpret%2:36:01::'])
+([Lemma('picture.v.02.picture'), Lemma('picture.v.02.depict'), Lemma('picture.v.02.render'), Lemma('picture.v.02.show')],['picture%2:36:00::', 'depict%2:36:00::', 'render%2:36:04::', 'show%2:36:00::'])
+([Lemma('map.v.05.map')],['map%2:36:01::'])
+[[Synset('change.v.02'), Synset('change_by_reversal.v.01'), Synset('permute.v.01'), Synset('map.v.06')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_by_reversal.v.01.change_by_reversal'), Lemma('change_by_reversal.v.01.turn'), Lemma('change_by_reversal.v.01.reverse')],['change_by_reversal%2:30:00::', 'turn%2:30:00::', 'reverse%2:30:00::'])
+([Lemma('permute.v.01.permute'), Lemma('permute.v.01.commute'), Lemma('permute.v.01.transpose')],['permute%2:30:00::', 'commute%2:30:00::', 'transpose%2:30:00::'])
+([Lemma('map.v.06.map'), Lemma('map.v.06.represent')],['map%2:30:00::', 'represent%2:30:06::'])
+TOKEN HYPERNIUM: 
+[corresponding] :[Synset('match.v.01'), Synset('equate.v.02'), Synset('correspond.v.03'), Synset('represent.v.01')]
+[[Synset('equal.v.01'), Synset('match.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('equal.v.01.equal'), Lemma('equal.v.01.be')],['equal%2:42:00::', 'be%2:42:07::'])
+([Lemma('match.v.01.match'), Lemma('match.v.01.fit'), Lemma('match.v.01.correspond'), Lemma('match.v.01.check'), Lemma('match.v.01.jibe'), Lemma('match.v.01.gibe'), Lemma('match.v.01.tally'), Lemma('match.v.01.agree')],['match%2:42:00::', 'fit%2:42:04::', 'correspond%2:42:00::', 'check%2:42:08::', 'jibe%2:42:00::', 'gibe%2:42:00::', 'tally%2:42:00::', 'agree%2:42:00::'])
+[[Synset('equal.v.01'), Synset('equate.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('equal.v.01.equal'), Lemma('equal.v.01.be')],['equal%2:42:00::', 'be%2:42:07::'])
+([Lemma('equate.v.02.equate'), Lemma('equate.v.02.correspond')],['equate%2:42:00::', 'correspond%2:42:04::'])
+[[Synset('correspond.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('correspond.v.03.correspond')],['correspond%2:32:00::'])
+[[Synset('equal.v.01'), Synset('represent.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('equal.v.01.equal'), Lemma('equal.v.01.be')],['equal%2:42:00::', 'be%2:42:07::'])
+([Lemma('represent.v.01.represent'), Lemma('represent.v.01.stand_for'), Lemma('represent.v.01.correspond')],['represent%2:42:02::', 'stand_for%2:42:00::', 'correspond%2:42:01::'])
+TOKEN HYPERNIUM: 
+[given] :[Synset('give.v.01'), Synset('yield.v.01'), Synset('give.v.03'), Synset('give.v.04'), Synset('give.v.05'), Synset('hold.v.03'), Synset('give.v.07'), Synset('give.v.08'), Synset('give.v.09'), Synset('give.v.10'), Synset('render.v.04'), Synset('impart.v.01'), Synset('establish.v.05'), Synset('give.v.14'), Synset('give.v.15'), Synset('sacrifice.v.01'), Synset('pass.v.05'), Synset('give.v.18'), Synset('give.v.19'), Synset('give.v.20'), Synset('give.v.21'), Synset('grant.v.05'), Synset('move_over.v.01'), Synset('feed.v.02'), Synset('contribute.v.02'), Synset('collapse.v.01'), Synset('give.v.27'), Synset('give.v.28'), Synset('give.v.29'), Synset('afford.v.04'), Synset('give.v.31'), Synset('give.v.32'), Synset('give.v.33'), Synset('give.v.34'), Synset('give.v.35'), Synset('give.v.36'), Synset('give.v.37'), Synset('give.v.38'), Synset('give.v.39'), Synset('give.v.40'), Synset('give.v.41'), Synset('give.v.42'), Synset('give.v.43'), Synset('give.v.44')]
+[[Synset('give.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('give.v.01.give')],['give%2:40:03::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('supply.v.01'), Synset('yield.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('supply.v.01.supply'), Lemma('supply.v.01.provide'), Lemma('supply.v.01.render'), Lemma('supply.v.01.furnish')],['supply%2:40:00::', 'provide%2:40:00::', 'render%2:40:02::', 'furnish%2:40:00::'])
+([Lemma('yield.v.01.yield'), Lemma('yield.v.01.give'), Lemma('yield.v.01.afford')],['yield%2:40:02::', 'give%2:40:05::', 'afford%2:40:00::'])
+[[Synset('transfer.v.05'), Synset('give.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+[[Synset('express.v.02'), Synset('state.v.01'), Synset('give.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('express.v.02.express'), Lemma('express.v.02.verbalize'), Lemma('express.v.02.verbalise'), Lemma('express.v.02.utter'), Lemma('express.v.02.give_tongue_to')],['express%2:32:00::', 'verbalize%2:32:03::', 'verbalise%2:32:03::', 'utter%2:32:01::', 'give_tongue_to%2:32:00::'])
+([Lemma('state.v.01.state'), Lemma('state.v.01.say'), Lemma('state.v.01.tell')],['state%2:32:00::', 'say%2:32:00::', 'tell%2:32:04::'])
+([Lemma('give.v.04.give')],['give%2:40:07::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('give.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('give.v.05.give'), Lemma('give.v.05.pay')],['give%2:32:01::', 'pay%2:32:00::'])
+[[Synset('control.v.01'), Synset('manage.v.02'), Synset('direct.v.04'), Synset('hold.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('control.v.01.control'), Lemma('control.v.01.command')],['control%2:41:00::', 'command%2:41:00::'])
+([Lemma('manage.v.02.manage'), Lemma('manage.v.02.deal'), Lemma('manage.v.02.care'), Lemma('manage.v.02.handle')],['manage%2:41:00::', 'deal%2:41:13::', 'care%2:41:11::', 'handle%2:41:00::'])
+([Lemma('direct.v.04.direct')],['direct%2:41:00::'])
+([Lemma('hold.v.03.hold'), Lemma('hold.v.03.throw'), Lemma('hold.v.03.have'), Lemma('hold.v.03.make'), Lemma('hold.v.03.give')],['hold%2:36:00::', 'throw%2:36:08::', 'have%2:36:00::', 'make%2:36:04::', 'give%2:36:02::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('give.v.07')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('give.v.07.give'), Lemma('give.v.07.throw')],['give%2:32:00::', 'throw%2:32:00::'])
+[[Synset('give.v.08')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('give.v.08.give'), Lemma('give.v.08.gift'), Lemma('give.v.08.present')],['give%2:40:01::', 'gift%2:40:00::', 'present%2:40:00::'])
+[[Synset('make.v.03'), Synset('give.v.09')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('give.v.09.give'), Lemma('give.v.09.yield')],['give%2:36:03::', 'yield%2:36:01::'])
+[[Synset('think.v.03'), Synset('give.v.10')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('think.v.03.think'), Lemma('think.v.03.cogitate'), Lemma('think.v.03.cerebrate')],['think%2:31:00::', 'cogitate%2:31:00::', 'cerebrate%2:31:00::'])
+([Lemma('give.v.10.give'), Lemma('give.v.10.pay'), Lemma('give.v.10.devote')],['give%2:31:02::', 'pay%2:31:00::', 'devote%2:31:00::'])
+[[Synset('produce.v.02'), Synset('render.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('produce.v.02.produce'), Lemma('produce.v.02.make'), Lemma('produce.v.02.create')],['produce%2:36:00::', 'make%2:36:01::', 'create%2:36:03::'])
+([Lemma('render.v.04.render'), Lemma('render.v.04.yield'), Lemma('render.v.04.return'), Lemma('render.v.04.give'), Lemma('render.v.04.generate')],['render%2:36:00::', 'yield%2:36:00::', 'return%2:36:00::', 'give%2:36:00::', 'generate%2:36:02::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('tell.v.02'), Synset('impart.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('tell.v.02.tell')],['tell%2:32:00::'])
+([Lemma('impart.v.01.impart'), Lemma('impart.v.01.leave'), Lemma('impart.v.01.give'), Lemma('impart.v.01.pass_on')],['impart%2:40:00::', 'leave%2:40:02::', 'give%2:40:09::', 'pass_on%2:40:03::'])
+[[Synset('make.v.03'), Synset('establish.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('establish.v.05.establish'), Lemma('establish.v.05.give')],['establish%2:36:01::', 'give%2:36:01::'])
+[[Synset('transfer.v.05'), Synset('pass.v.05'), Synset('give.v.14')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('pass.v.05.pass'), Lemma('pass.v.05.hand'), Lemma('pass.v.05.reach'), Lemma('pass.v.05.pass_on'), Lemma('pass.v.05.turn_over'), Lemma('pass.v.05.give')],['pass%2:40:00::', 'hand%2:40:00::', 'reach%2:40:00::', 'pass_on%2:40:01::', 'turn_over%2:40:00::', 'give%2:40:06::'])
+([Lemma('give.v.14.give')],['give%2:40:02::'])
+[[Synset('utter.v.02'), Synset('give.v.15')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('utter.v.02.utter'), Lemma('utter.v.02.emit'), Lemma('utter.v.02.let_out'), Lemma('utter.v.02.let_loose')],['utter%2:32:02::', 'emit%2:32:00::', 'let_out%2:32:02::', 'let_loose%2:32:00::'])
+([Lemma('give.v.15.give')],['give%2:41:00::'])
+[[Synset('transfer.v.05'), Synset('pass.v.05'), Synset('release.v.08'), Synset('sacrifice.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('pass.v.05.pass'), Lemma('pass.v.05.hand'), Lemma('pass.v.05.reach'), Lemma('pass.v.05.pass_on'), Lemma('pass.v.05.turn_over'), Lemma('pass.v.05.give')],['pass%2:40:00::', 'hand%2:40:00::', 'reach%2:40:00::', 'pass_on%2:40:01::', 'turn_over%2:40:00::', 'give%2:40:06::'])
+([Lemma('release.v.08.release'), Lemma('release.v.08.relinquish'), Lemma('release.v.08.resign'), Lemma('release.v.08.free'), Lemma('release.v.08.give_up')],['release%2:40:00::', 'relinquish%2:40:01::', 'resign%2:40:04::', 'free%2:40:01::', 'give_up%2:40:03::'])
+([Lemma('sacrifice.v.01.sacrifice'), Lemma('sacrifice.v.01.give')],['sacrifice%2:40:00::', 'give%2:40:10::'])
+[[Synset('transfer.v.05'), Synset('pass.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('pass.v.05.pass'), Lemma('pass.v.05.hand'), Lemma('pass.v.05.reach'), Lemma('pass.v.05.pass_on'), Lemma('pass.v.05.turn_over'), Lemma('pass.v.05.give')],['pass%2:40:00::', 'hand%2:40:00::', 'reach%2:40:00::', 'pass_on%2:40:01::', 'turn_over%2:40:00::', 'give%2:40:06::'])
+[[Synset('use.v.01'), Synset('give.v.18')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('use.v.01.use'), Lemma('use.v.01.utilize'), Lemma('use.v.01.utilise'), Lemma('use.v.01.apply'), Lemma('use.v.01.employ')],['use%2:34:01::', 'utilize%2:34:00::', 'utilise%2:34:00::', 'apply%2:34:00::', 'employ%2:34:00::'])
+([Lemma('give.v.18.give'), Lemma('give.v.18.dedicate'), Lemma('give.v.18.consecrate'), Lemma('give.v.18.commit'), Lemma('give.v.18.devote')],['give%2:32:03::', 'dedicate%2:32:00::', 'consecrate%2:32:04::', 'commit%2:32:01::', 'devote%2:32:00::'])
+[[Synset('treat.v.03'), Synset('administer.v.04'), Synset('give.v.19')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('treat.v.03.treat'), Lemma('treat.v.03.care_for')],['treat%2:29:00::', 'care_for%2:29:00::'])
+([Lemma('administer.v.04.administer'), Lemma('administer.v.04.dispense')],['administer%2:29:00::', 'dispense%2:29:00::'])
+([Lemma('give.v.19.give')],['give%2:40:13::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('distribute.v.01'), Synset('give.v.20')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('distribute.v.01.distribute'), Lemma('distribute.v.01.administer'), Lemma('distribute.v.01.mete_out'), Lemma('distribute.v.01.deal'), Lemma('distribute.v.01.parcel_out'), Lemma('distribute.v.01.lot'), Lemma('distribute.v.01.dispense'), Lemma('distribute.v.01.shell_out'), Lemma('distribute.v.01.deal_out'), Lemma('distribute.v.01.dish_out'), Lemma('distribute.v.01.allot'), Lemma('distribute.v.01.dole_out')],['distribute%2:40:00::', 'administer%2:40:00::', 'mete_out%2:40:00::', 'deal%2:40:01::', 'parcel_out%2:40:00::', 'lot%2:40:00::', 'dispense%2:40:00::', 'shell_out%2:40:00::', 'deal_out%2:40:00::', 'dish_out%2:40:00::', 'allot%2:40:02::', 'dole_out%2:40:00::'])
+([Lemma('give.v.20.give'), Lemma('give.v.20.apply')],['give%2:40:14::', 'apply%2:40:00::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('give.v.21')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('give.v.21.give'), Lemma('give.v.21.render')],['give%2:32:02::', 'render%2:32:00::'])
+[[Synset('grant.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('grant.v.05.grant'), Lemma('grant.v.05.give')],['grant%2:40:05::', 'give%2:40:11::'])
+[[Synset('move.v.03'), Synset('move_over.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.03.move')],['move%2:38:00::'])
+([Lemma('move_over.v.01.move_over'), Lemma('move_over.v.01.give_way'), Lemma('move_over.v.01.give'), Lemma('move_over.v.01.ease_up'), Lemma('move_over.v.01.yield')],['move_over%2:38:00::', 'give_way%2:38:00::', 'give%2:38:00::', 'ease_up%2:38:00::', 'yield%2:38:00::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('provide.v.02'), Synset('feed.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('provide.v.02.provide'), Lemma('provide.v.02.supply'), Lemma('provide.v.02.ply'), Lemma('provide.v.02.cater')],['provide%2:34:00::', 'supply%2:34:00::', 'ply%2:34:00::', 'cater%2:34:00::'])
+([Lemma('feed.v.02.feed'), Lemma('feed.v.02.give')],['feed%2:34:01::', 'give%2:34:00::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('contribute.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('contribute.v.02.contribute'), Lemma('contribute.v.02.give'), Lemma('contribute.v.02.chip_in'), Lemma('contribute.v.02.kick_in')],['contribute%2:40:00::', 'give%2:40:08::', 'chip_in%2:40:00::', 'kick_in%2:40:00::'])
+[[Synset('change.v.02'), Synset('collapse.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('collapse.v.01.collapse'), Lemma('collapse.v.01.fall_in'), Lemma('collapse.v.01.cave_in'), Lemma('collapse.v.01.give'), Lemma('collapse.v.01.give_way'), Lemma('collapse.v.01.break'), Lemma('collapse.v.01.founder')],['collapse%2:38:00::', 'fall_in%2:38:00::', 'cave_in%2:38:00::', 'give%2:38:13::', 'give_way%2:38:01::', 'break%2:38:11::', 'founder%2:38:00::'])
+[[Synset('think.v.03'), Synset('reason.v.03'), Synset('calculate.v.01'), Synset('estimate.v.01'), Synset('give.v.27')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('think.v.03.think'), Lemma('think.v.03.cogitate'), Lemma('think.v.03.cerebrate')],['think%2:31:00::', 'cogitate%2:31:00::', 'cerebrate%2:31:00::'])
+([Lemma('reason.v.03.reason')],['reason%2:31:00::'])
+([Lemma('calculate.v.01.calculate'), Lemma('calculate.v.01.cipher'), Lemma('calculate.v.01.cypher'), Lemma('calculate.v.01.compute'), Lemma('calculate.v.01.work_out'), Lemma('calculate.v.01.reckon'), Lemma('calculate.v.01.figure')],['calculate%2:31:00::', 'cipher%2:31:00::', 'cypher%2:31:00::', 'compute%2:31:00::', 'work_out%2:31:06::', 'reckon%2:31:01::', 'figure%2:31:00::'])
+([Lemma('estimate.v.01.estimate'), Lemma('estimate.v.01.gauge'), Lemma('estimate.v.01.approximate'), Lemma('estimate.v.01.guess'), Lemma('estimate.v.01.judge')],['estimate%2:31:00::', 'gauge%2:31:00::', 'approximate%2:31:00::', 'guess%2:31:01::', 'judge%2:31:01::'])
+([Lemma('give.v.27.give')],['give%2:31:00::'])
+[[Synset('induce.v.02'), Synset('compel.v.01'), Synset('enforce.v.01'), Synset('execute.v.04'), Synset('give.v.28')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('induce.v.02.induce'), Lemma('induce.v.02.stimulate'), Lemma('induce.v.02.cause'), Lemma('induce.v.02.have'), Lemma('induce.v.02.get'), Lemma('induce.v.02.make')],['induce%2:32:00::', 'stimulate%2:32:01::', 'cause%2:32:00::', 'have%2:32:00::', 'get%2:32:00::', 'make%2:32:00::'])
+([Lemma('compel.v.01.compel'), Lemma('compel.v.01.oblige'), Lemma('compel.v.01.obligate')],['compel%2:41:00::', 'oblige%2:41:00::', 'obligate%2:41:00::'])
+([Lemma('enforce.v.01.enforce'), Lemma('enforce.v.01.implement'), Lemma('enforce.v.01.apply')],['enforce%2:41:00::', 'implement%2:41:00::', 'apply%2:41:06::'])
+([Lemma('execute.v.04.execute')],['execute%2:41:03::'])
+([Lemma('give.v.28.give')],['give%2:41:10::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('pay.v.01'), Synset('compensate.v.02'), Synset('give.v.29')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('pay.v.01.pay')],['pay%2:40:00::'])
+([Lemma('compensate.v.02.compensate'), Lemma('compensate.v.02.recompense'), Lemma('compensate.v.02.repair'), Lemma('compensate.v.02.indemnify')],['compensate%2:40:01::', 'recompense%2:40:01::', 'repair%2:40:00::', 'indemnify%2:40:00::'])
+([Lemma('give.v.29.give')],['give%2:40:12::'])
+[[Synset('afford.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('afford.v.04.afford'), Lemma('afford.v.04.open'), Lemma('afford.v.04.give')],['afford%2:40:01::', 'open%2:40:04::', 'give%2:40:15::'])
+[[Synset('show.v.04'), Synset('give.v.31')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('show.v.04.show')],['show%2:39:00::'])
+([Lemma('give.v.31.give')],['give%2:36:13::'])
+[[Synset('make.v.03'), Synset('re-create.v.01'), Synset('perform.v.03'), Synset('give.v.32')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('re-create.v.01.re-create')],['re-create%2:36:00::'])
+([Lemma('perform.v.03.perform')],['perform%2:36:01::'])
+([Lemma('give.v.32.give')],['give%2:36:12::'])
+[[Synset('change.v.02'), Synset('change_magnitude.v.01'), Synset('increase.v.01'), Synset('grow.v.02'), Synset('stretch.v.04'), Synset('give.v.33')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_magnitude.v.01.change_magnitude')],['change_magnitude%2:30:00::'])
+([Lemma('increase.v.01.increase')],['increase%2:30:00::'])
+([Lemma('grow.v.02.grow')],['grow%2:30:00::'])
+([Lemma('stretch.v.04.stretch')],['stretch%2:30:00::'])
+([Lemma('give.v.33.give'), Lemma('give.v.33.yield')],['give%2:35:00::', 'yield%2:35:00::'])
+[[Synset('think.v.03'), Synset('evaluate.v.02'), Synset('think.v.01'), Synset('see.v.05'), Synset('prize.v.01'), Synset('recognize.v.09'), Synset('honor.v.01'), Synset('toast.v.02'), Synset('give.v.34')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('think.v.03.think'), Lemma('think.v.03.cogitate'), Lemma('think.v.03.cerebrate')],['think%2:31:00::', 'cogitate%2:31:00::', 'cerebrate%2:31:00::'])
+([Lemma('evaluate.v.02.evaluate'), Lemma('evaluate.v.02.pass_judgment'), Lemma('evaluate.v.02.judge')],['evaluate%2:31:01::', 'pass_judgment%2:31:00::', 'judge%2:31:00::'])
+([Lemma('think.v.01.think'), Lemma('think.v.01.believe'), Lemma('think.v.01.consider'), Lemma('think.v.01.conceive')],['think%2:31:01::', 'believe%2:31:04::', 'consider%2:31:08::', 'conceive%2:31:00::'])
+([Lemma('see.v.05.see'), Lemma('see.v.05.consider'), Lemma('see.v.05.reckon'), Lemma('see.v.05.view'), Lemma('see.v.05.regard')],['see%2:31:00::', 'consider%2:31:00::', 'reckon%2:31:00::', 'view%2:31:00::', 'regard%2:31:00::'])
+([Lemma('prize.v.01.prize'), Lemma('prize.v.01.value'), Lemma('prize.v.01.treasure'), Lemma('prize.v.01.appreciate')],['prize%2:40:00::', 'value%2:40:00::', 'treasure%2:40:00::', 'appreciate%2:40:00::'])
+([Lemma('recognize.v.09.recognize'), Lemma('recognize.v.09.recognise')],['recognize%2:41:01::', 'recognise%2:41:01::'])
+([Lemma('honor.v.01.honor'), Lemma('honor.v.01.honour'), Lemma('honor.v.01.reward')],['honor%2:41:00::', 'honour%2:41:00::', 'reward%2:41:01::'])
+([Lemma('toast.v.02.toast'), Lemma('toast.v.02.drink'), Lemma('toast.v.02.pledge'), Lemma('toast.v.02.salute'), Lemma('toast.v.02.wassail')],['toast%2:34:00::', 'drink%2:34:12::', 'pledge%2:34:00::', 'salute%2:34:00::', 'wassail%2:34:00::'])
+([Lemma('give.v.34.give')],['give%2:34:10::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('accord.v.02'), Synset('give.v.35')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('accord.v.02.accord'), Lemma('accord.v.02.allot'), Lemma('accord.v.02.grant')],['accord%2:40:00::', 'allot%2:40:00::', 'grant%2:40:00::'])
+([Lemma('give.v.35.give')],['give%2:32:11::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('tell.v.02'), Synset('impart.v.01'), Synset('convey.v.01'), Synset('express.v.01'), Synset('give.v.36')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('tell.v.02.tell')],['tell%2:32:00::'])
+([Lemma('impart.v.01.impart'), Lemma('impart.v.01.leave'), Lemma('impart.v.01.give'), Lemma('impart.v.01.pass_on')],['impart%2:40:00::', 'leave%2:40:02::', 'give%2:40:09::', 'pass_on%2:40:03::'])
+([Lemma('convey.v.01.convey')],['convey%2:32:00::'])
+([Lemma('express.v.01.express'), Lemma('express.v.01.show'), Lemma('express.v.01.evince')],['express%2:32:01::', 'show%2:32:02::', 'evince%2:32:00::'])
+([Lemma('give.v.36.give')],['give%2:32:08::'])
+[[Synset('transfer.v.05'), Synset('pass.v.05'), Synset('entrust.v.01'), Synset('consign.v.02'), Synset('pledge.v.04'), Synset('give.v.37')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('pass.v.05.pass'), Lemma('pass.v.05.hand'), Lemma('pass.v.05.reach'), Lemma('pass.v.05.pass_on'), Lemma('pass.v.05.turn_over'), Lemma('pass.v.05.give')],['pass%2:40:00::', 'hand%2:40:00::', 'reach%2:40:00::', 'pass_on%2:40:01::', 'turn_over%2:40:00::', 'give%2:40:06::'])
+([Lemma('entrust.v.01.entrust'), Lemma('entrust.v.01.intrust'), Lemma('entrust.v.01.trust'), Lemma('entrust.v.01.confide'), Lemma('entrust.v.01.commit')],['entrust%2:40:00::', 'intrust%2:40:00::', 'trust%2:40:00::', 'confide%2:40:00::', 'commit%2:40:00::'])
+([Lemma('consign.v.02.consign'), Lemma('consign.v.02.charge')],['consign%2:40:00::', 'charge%2:40:04::'])
+([Lemma('pledge.v.04.pledge')],['pledge%2:32:02::'])
+([Lemma('give.v.37.give')],['give%2:32:15::'])
+[[Synset('move.v.02'), Synset('send.v.01'), Synset('refer.v.04'), Synset('submit.v.01'), Synset('give.v.38')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.02.move'), Lemma('move.v.02.displace')],['move%2:38:01::', 'displace%2:38:02::'])
+([Lemma('send.v.01.send'), Lemma('send.v.01.direct')],['send%2:38:01::', 'direct%2:38:01::'])
+([Lemma('refer.v.04.refer')],['refer%2:38:00::'])
+([Lemma('submit.v.01.submit'), Lemma('submit.v.01.subject')],['submit%2:32:01::', 'subject%2:32:04::'])
+([Lemma('give.v.38.give')],['give%2:32:14::'])
+[[Synset('induce.v.02'), Synset('lead.v.05'), Synset('give.v.39')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('induce.v.02.induce'), Lemma('induce.v.02.stimulate'), Lemma('induce.v.02.cause'), Lemma('induce.v.02.have'), Lemma('induce.v.02.get'), Lemma('induce.v.02.make')],['induce%2:32:00::', 'stimulate%2:32:01::', 'cause%2:32:00::', 'have%2:32:00::', 'get%2:32:00::', 'make%2:32:00::'])
+([Lemma('lead.v.05.lead')],['lead%2:32:00::'])
+([Lemma('give.v.39.give')],['give%2:32:09::'])
+[[Synset('act.v.01'), Synset('react.v.01'), Synset('accept.v.03'), Synset('permit.v.01'), Synset('give.v.40')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('react.v.01.react'), Lemma('react.v.01.respond')],['react%2:31:00::', 'respond%2:31:00::'])
+([Lemma('accept.v.03.accept'), Lemma('accept.v.03.consent'), Lemma('accept.v.03.go_for')],['accept%2:32:00::', 'consent%2:32:00::', 'go_for%2:32:00::'])
+([Lemma('permit.v.01.permit'), Lemma('permit.v.01.allow'), Lemma('permit.v.01.let'), Lemma('permit.v.01.countenance')],['permit%2:32:00::', 'allow%2:32:00::', 'let%2:32:02::', 'countenance%2:32:00::'])
+([Lemma('give.v.40.give')],['give%2:32:07::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inflict.v.01'), Synset('give.v.41')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inflict.v.01.inflict'), Lemma('inflict.v.01.bring_down'), Lemma('inflict.v.01.visit'), Lemma('inflict.v.01.impose')],['inflict%2:32:00::', 'bring_down%2:32:00::', 'visit%2:32:01::', 'impose%2:32:00::'])
+([Lemma('give.v.41.give')],['give%2:32:10::'])
+[[Synset('happen.v.01'), Synset('give.v.42')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('happen.v.01.happen'), Lemma('happen.v.01.hap'), Lemma('happen.v.01.go_on'), Lemma('happen.v.01.pass_off'), Lemma('happen.v.01.occur'), Lemma('happen.v.01.pass'), Lemma('happen.v.01.fall_out'), Lemma('happen.v.01.come_about'), Lemma('happen.v.01.take_place')],['happen%2:30:00::', 'hap%2:30:00::', 'go_on%2:30:00::', 'pass_off%2:30:00::', 'occur%2:30:00::', 'pass%2:30:00::', 'fall_out%2:30:00::', 'come_about%2:30:00::', 'take_place%2:30:00::'])
+([Lemma('give.v.42.give')],['give%2:30:13::'])
+[[Synset('act.v.01'), Synset('react.v.01'), Synset('accept.v.03'), Synset('give.v.43')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('react.v.01.react'), Lemma('react.v.01.respond')],['react%2:31:00::', 'respond%2:31:00::'])
+([Lemma('accept.v.03.accept'), Lemma('accept.v.03.consent'), Lemma('accept.v.03.go_for')],['accept%2:32:00::', 'consent%2:32:00::', 'go_for%2:32:00::'])
+([Lemma('give.v.43.give')],['give%2:29:11::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('offer.v.02'), Synset('give.v.44')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('offer.v.02.offer'), Lemma('offer.v.02.proffer')],['offer%2:40:00::', 'proffer%2:40:00::'])
+([Lemma('give.v.44.give')],['give%2:29:10::'])
+TOKEN AND TOKEN NEXT LIST:
+[[Section, 5], [5, describes], [describes, how], [how, graph], [graph, patterns], [patterns, map], [map, back], [back, to], [to, a], [a, graph], [graph, representation], [representation, corresponding], [corresponding, to], [to, a], [a, given], [given, event], [event, pair], [pair, .]]
+TOKEN'S TAG AND TOKEN'S TAG NEXT LIST:
+[['NN', 'CD'], ['CD', 'VBZ'], ['VBZ', 'WRB'], ['WRB', 'NN'], ['NN', 'NNS'], ['NNS', 'VBP'], ['VBP', 'RB'], ['RB', 'IN'], ['IN', 'DT'], ['DT', 'NN'], ['NN', 'NN'], ['NN', 'VBG'], ['VBG', 'IN'], ['IN', 'DT'], ['DT', 'VBN'], ['VBN', 'NN'], ['NN', 'NN'], ['NN', '.']]
+ENABLEMENT'S TUPLE LIST:
+[[describes, how]]
+ENABLEMENT:
+{describes: map}
+
+SENTENCE:
+Section 5 describes how graph patterns map back to a graph representation corresponding to a given event pair.
+[Section,section,NOUN,NN,nsubj]
+[5,5,NUM,CD,nummod]
+[describes,describe,VERB,VBZ,ROOT]
+[how,how,ADV,WRB,advmod]
+[graph,graph,NOUN,NN,compound]
+[patterns,pattern,NOUN,NNS,nsubj]
+[map,map,VERB,VBP,ccomp]
+[back,back,ADV,RB,advmod]
+[to,to,ADP,IN,prep]
+[a,a,DET,DT,det]
+[graph,graph,NOUN,NN,compound]
+[representation,representation,NOUN,NN,pobj]
+[corresponding,correspond,VERB,VBG,amod]
+[to,to,ADP,IN,prep]
+[a,a,DET,DT,det]
+[given,give,VERB,VBN,amod]
+[event,event,NOUN,NN,compound]
+[pair,pair,NOUN,NN,pobj]
+[.,.,PUNCT,.,punct]
+VERB:
+[describes, map, corresponding, given]
+TOKEN HYPERNIUM: 
+[describes] :[Synset('describe.v.01'), Synset('report.v.01'), Synset('trace.v.02'), Synset('identify.v.05')]
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('explain.v.01'), Synset('clarify.v.01'), Synset('elaborate.v.01'), Synset('set_forth.v.01'), Synset('describe.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('explain.v.01.explain'), Lemma('explain.v.01.explicate')],['explain%2:32:00::', 'explicate%2:32:00::'])
+([Lemma('clarify.v.01.clarify'), Lemma('clarify.v.01.clear_up'), Lemma('clarify.v.01.elucidate')],['clarify%2:32:00::', 'clear_up%2:32:00::', 'elucidate%2:32:00::'])
+([Lemma('elaborate.v.01.elaborate'), Lemma('elaborate.v.01.lucubrate'), Lemma('elaborate.v.01.expatiate'), Lemma('elaborate.v.01.exposit'), Lemma('elaborate.v.01.enlarge'), Lemma('elaborate.v.01.flesh_out'), Lemma('elaborate.v.01.expand'), Lemma('elaborate.v.01.expound'), Lemma('elaborate.v.01.dilate')],['elaborate%2:32:00::', 'lucubrate%2:32:00::', 'expatiate%2:32:00::', 'exposit%2:32:01::', 'enlarge%2:32:04::', 'flesh_out%2:32:00::', 'expand%2:32:10::', 'expound%2:32:00::', 'dilate%2:32:10::'])
+([Lemma('set_forth.v.01.set_forth'), Lemma('set_forth.v.01.expound'), Lemma('set_forth.v.01.exposit')],['set_forth%2:32:00::', 'expound%2:32:01::', 'exposit%2:32:00::'])
+([Lemma('describe.v.01.describe'), Lemma('describe.v.01.depict'), Lemma('describe.v.01.draw')],['describe%2:32:00::', 'depict%2:32:01::', 'draw%2:32:00::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('report.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('report.v.01.report'), Lemma('report.v.01.describe'), Lemma('report.v.01.account')],['report%2:32:00::', 'describe%2:32:01::', 'account%2:32:02::'])
+[[Synset('change.v.01'), Synset('mark.v.05'), Synset('trace.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.01.change'), Lemma('change.v.01.alter'), Lemma('change.v.01.modify')],['change%2:30:01::', 'alter%2:30:01::', 'modify%2:30:10::'])
+([Lemma('mark.v.05.mark')],['mark%2:30:00::'])
+([Lemma('trace.v.02.trace'), Lemma('trace.v.02.draw'), Lemma('trace.v.02.line'), Lemma('trace.v.02.describe'), Lemma('trace.v.02.delineate')],['trace%2:35:00::', 'draw%2:35:01::', 'line%2:35:01::', 'describe%2:35:00::', 'delineate%2:35:00::'])
+[[Synset('identify.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('identify.v.05.identify'), Lemma('identify.v.05.discover'), Lemma('identify.v.05.key'), Lemma('identify.v.05.key_out'), Lemma('identify.v.05.distinguish'), Lemma('identify.v.05.describe'), Lemma('identify.v.05.name')],['identify%2:31:01::', 'discover%2:31:03::', 'key%2:31:00::', 'key_out%2:31:00::', 'distinguish%2:31:01::', 'describe%2:31:00::', 'name%2:31:01::'])
+TOKEN HYPERNIUM: 
+[map] :[Synset('map.v.01'), Synset('map.v.02'), Synset('map.v.03'), Synset('map.v.04'), Synset('map.v.05'), Synset('map.v.06')]
+[[Synset('make.v.03'), Synset('re-create.v.01'), Synset('represent.v.09'), Synset('map.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('re-create.v.01.re-create')],['re-create%2:36:00::'])
+([Lemma('represent.v.09.represent'), Lemma('represent.v.09.interpret')],['represent%2:36:01::', 'interpret%2:36:01::'])
+([Lemma('map.v.01.map')],['map%2:36:00::'])
+[[Synset('analyze.v.01'), Synset('investigate.v.01'), Synset('explore.v.02'), Synset('map.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('analyze.v.01.analyze'), Lemma('analyze.v.01.analyse'), Lemma('analyze.v.01.study'), Lemma('analyze.v.01.examine'), Lemma('analyze.v.01.canvass'), Lemma('analyze.v.01.canvas')],['analyze%2:31:00::', 'analyse%2:31:00::', 'study%2:31:02::', 'examine%2:31:00::', 'canvass%2:31:02::', 'canvas%2:31:02::'])
+([Lemma('investigate.v.01.investigate'), Lemma('investigate.v.01.look_into')],['investigate%2:32:00::', 'look_into%2:32:00::'])
+([Lemma('explore.v.02.explore')],['explore%2:31:01::'])
+([Lemma('map.v.02.map')],['map%2:31:01::'])
+[[Synset('determine.v.01'), Synset('situate.v.01'), Synset('map.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('determine.v.01.determine'), Lemma('determine.v.01.find'), Lemma('determine.v.01.find_out'), Lemma('determine.v.01.ascertain')],['determine%2:32:00::', 'find%2:32:00::', 'find_out%2:32:00::', 'ascertain%2:32:01::'])
+([Lemma('situate.v.01.situate'), Lemma('situate.v.01.locate')],['situate%2:42:00::', 'locate%2:42:00::'])
+([Lemma('map.v.03.map')],['map%2:42:00::'])
+[[Synset('make.v.03'), Synset('create_by_mental_act.v.01'), Synset('plan.v.03'), Synset('map.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('create_by_mental_act.v.01.create_by_mental_act'), Lemma('create_by_mental_act.v.01.create_mentally')],['create_by_mental_act%2:36:00::', 'create_mentally%2:36:00::'])
+([Lemma('plan.v.03.plan'), Lemma('plan.v.03.project'), Lemma('plan.v.03.contrive'), Lemma('plan.v.03.design')],['plan%2:36:00::', 'project%2:36:01::', 'contrive%2:36:01::', 'design%2:36:02::'])
+([Lemma('map.v.04.map'), Lemma('map.v.04.map_out')],['map%2:36:03::', 'map_out%2:36:03::'])
+[[Synset('make.v.03'), Synset('re-create.v.01'), Synset('represent.v.09'), Synset('picture.v.02'), Synset('map.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('re-create.v.01.re-create')],['re-create%2:36:00::'])
+([Lemma('represent.v.09.represent'), Lemma('represent.v.09.interpret')],['represent%2:36:01::', 'interpret%2:36:01::'])
+([Lemma('picture.v.02.picture'), Lemma('picture.v.02.depict'), Lemma('picture.v.02.render'), Lemma('picture.v.02.show')],['picture%2:36:00::', 'depict%2:36:00::', 'render%2:36:04::', 'show%2:36:00::'])
+([Lemma('map.v.05.map')],['map%2:36:01::'])
+[[Synset('change.v.02'), Synset('change_by_reversal.v.01'), Synset('permute.v.01'), Synset('map.v.06')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_by_reversal.v.01.change_by_reversal'), Lemma('change_by_reversal.v.01.turn'), Lemma('change_by_reversal.v.01.reverse')],['change_by_reversal%2:30:00::', 'turn%2:30:00::', 'reverse%2:30:00::'])
+([Lemma('permute.v.01.permute'), Lemma('permute.v.01.commute'), Lemma('permute.v.01.transpose')],['permute%2:30:00::', 'commute%2:30:00::', 'transpose%2:30:00::'])
+([Lemma('map.v.06.map'), Lemma('map.v.06.represent')],['map%2:30:00::', 'represent%2:30:06::'])
+TOKEN HYPERNIUM: 
+[corresponding] :[Synset('match.v.01'), Synset('equate.v.02'), Synset('correspond.v.03'), Synset('represent.v.01')]
+[[Synset('equal.v.01'), Synset('match.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('equal.v.01.equal'), Lemma('equal.v.01.be')],['equal%2:42:00::', 'be%2:42:07::'])
+([Lemma('match.v.01.match'), Lemma('match.v.01.fit'), Lemma('match.v.01.correspond'), Lemma('match.v.01.check'), Lemma('match.v.01.jibe'), Lemma('match.v.01.gibe'), Lemma('match.v.01.tally'), Lemma('match.v.01.agree')],['match%2:42:00::', 'fit%2:42:04::', 'correspond%2:42:00::', 'check%2:42:08::', 'jibe%2:42:00::', 'gibe%2:42:00::', 'tally%2:42:00::', 'agree%2:42:00::'])
+[[Synset('equal.v.01'), Synset('equate.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('equal.v.01.equal'), Lemma('equal.v.01.be')],['equal%2:42:00::', 'be%2:42:07::'])
+([Lemma('equate.v.02.equate'), Lemma('equate.v.02.correspond')],['equate%2:42:00::', 'correspond%2:42:04::'])
+[[Synset('correspond.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('correspond.v.03.correspond')],['correspond%2:32:00::'])
+[[Synset('equal.v.01'), Synset('represent.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('equal.v.01.equal'), Lemma('equal.v.01.be')],['equal%2:42:00::', 'be%2:42:07::'])
+([Lemma('represent.v.01.represent'), Lemma('represent.v.01.stand_for'), Lemma('represent.v.01.correspond')],['represent%2:42:02::', 'stand_for%2:42:00::', 'correspond%2:42:01::'])
+TOKEN HYPERNIUM: 
+[given] :[Synset('give.v.01'), Synset('yield.v.01'), Synset('give.v.03'), Synset('give.v.04'), Synset('give.v.05'), Synset('hold.v.03'), Synset('give.v.07'), Synset('give.v.08'), Synset('give.v.09'), Synset('give.v.10'), Synset('render.v.04'), Synset('impart.v.01'), Synset('establish.v.05'), Synset('give.v.14'), Synset('give.v.15'), Synset('sacrifice.v.01'), Synset('pass.v.05'), Synset('give.v.18'), Synset('give.v.19'), Synset('give.v.20'), Synset('give.v.21'), Synset('grant.v.05'), Synset('move_over.v.01'), Synset('feed.v.02'), Synset('contribute.v.02'), Synset('collapse.v.01'), Synset('give.v.27'), Synset('give.v.28'), Synset('give.v.29'), Synset('afford.v.04'), Synset('give.v.31'), Synset('give.v.32'), Synset('give.v.33'), Synset('give.v.34'), Synset('give.v.35'), Synset('give.v.36'), Synset('give.v.37'), Synset('give.v.38'), Synset('give.v.39'), Synset('give.v.40'), Synset('give.v.41'), Synset('give.v.42'), Synset('give.v.43'), Synset('give.v.44')]
+[[Synset('give.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('give.v.01.give')],['give%2:40:03::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('supply.v.01'), Synset('yield.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('supply.v.01.supply'), Lemma('supply.v.01.provide'), Lemma('supply.v.01.render'), Lemma('supply.v.01.furnish')],['supply%2:40:00::', 'provide%2:40:00::', 'render%2:40:02::', 'furnish%2:40:00::'])
+([Lemma('yield.v.01.yield'), Lemma('yield.v.01.give'), Lemma('yield.v.01.afford')],['yield%2:40:02::', 'give%2:40:05::', 'afford%2:40:00::'])
+[[Synset('transfer.v.05'), Synset('give.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+[[Synset('express.v.02'), Synset('state.v.01'), Synset('give.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('express.v.02.express'), Lemma('express.v.02.verbalize'), Lemma('express.v.02.verbalise'), Lemma('express.v.02.utter'), Lemma('express.v.02.give_tongue_to')],['express%2:32:00::', 'verbalize%2:32:03::', 'verbalise%2:32:03::', 'utter%2:32:01::', 'give_tongue_to%2:32:00::'])
+([Lemma('state.v.01.state'), Lemma('state.v.01.say'), Lemma('state.v.01.tell')],['state%2:32:00::', 'say%2:32:00::', 'tell%2:32:04::'])
+([Lemma('give.v.04.give')],['give%2:40:07::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('give.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('give.v.05.give'), Lemma('give.v.05.pay')],['give%2:32:01::', 'pay%2:32:00::'])
+[[Synset('control.v.01'), Synset('manage.v.02'), Synset('direct.v.04'), Synset('hold.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('control.v.01.control'), Lemma('control.v.01.command')],['control%2:41:00::', 'command%2:41:00::'])
+([Lemma('manage.v.02.manage'), Lemma('manage.v.02.deal'), Lemma('manage.v.02.care'), Lemma('manage.v.02.handle')],['manage%2:41:00::', 'deal%2:41:13::', 'care%2:41:11::', 'handle%2:41:00::'])
+([Lemma('direct.v.04.direct')],['direct%2:41:00::'])
+([Lemma('hold.v.03.hold'), Lemma('hold.v.03.throw'), Lemma('hold.v.03.have'), Lemma('hold.v.03.make'), Lemma('hold.v.03.give')],['hold%2:36:00::', 'throw%2:36:08::', 'have%2:36:00::', 'make%2:36:04::', 'give%2:36:02::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('give.v.07')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('give.v.07.give'), Lemma('give.v.07.throw')],['give%2:32:00::', 'throw%2:32:00::'])
+[[Synset('give.v.08')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('give.v.08.give'), Lemma('give.v.08.gift'), Lemma('give.v.08.present')],['give%2:40:01::', 'gift%2:40:00::', 'present%2:40:00::'])
+[[Synset('make.v.03'), Synset('give.v.09')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('give.v.09.give'), Lemma('give.v.09.yield')],['give%2:36:03::', 'yield%2:36:01::'])
+[[Synset('think.v.03'), Synset('give.v.10')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('think.v.03.think'), Lemma('think.v.03.cogitate'), Lemma('think.v.03.cerebrate')],['think%2:31:00::', 'cogitate%2:31:00::', 'cerebrate%2:31:00::'])
+([Lemma('give.v.10.give'), Lemma('give.v.10.pay'), Lemma('give.v.10.devote')],['give%2:31:02::', 'pay%2:31:00::', 'devote%2:31:00::'])
+[[Synset('produce.v.02'), Synset('render.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('produce.v.02.produce'), Lemma('produce.v.02.make'), Lemma('produce.v.02.create')],['produce%2:36:00::', 'make%2:36:01::', 'create%2:36:03::'])
+([Lemma('render.v.04.render'), Lemma('render.v.04.yield'), Lemma('render.v.04.return'), Lemma('render.v.04.give'), Lemma('render.v.04.generate')],['render%2:36:00::', 'yield%2:36:00::', 'return%2:36:00::', 'give%2:36:00::', 'generate%2:36:02::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('tell.v.02'), Synset('impart.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('tell.v.02.tell')],['tell%2:32:00::'])
+([Lemma('impart.v.01.impart'), Lemma('impart.v.01.leave'), Lemma('impart.v.01.give'), Lemma('impart.v.01.pass_on')],['impart%2:40:00::', 'leave%2:40:02::', 'give%2:40:09::', 'pass_on%2:40:03::'])
+[[Synset('make.v.03'), Synset('establish.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('establish.v.05.establish'), Lemma('establish.v.05.give')],['establish%2:36:01::', 'give%2:36:01::'])
+[[Synset('transfer.v.05'), Synset('pass.v.05'), Synset('give.v.14')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('pass.v.05.pass'), Lemma('pass.v.05.hand'), Lemma('pass.v.05.reach'), Lemma('pass.v.05.pass_on'), Lemma('pass.v.05.turn_over'), Lemma('pass.v.05.give')],['pass%2:40:00::', 'hand%2:40:00::', 'reach%2:40:00::', 'pass_on%2:40:01::', 'turn_over%2:40:00::', 'give%2:40:06::'])
+([Lemma('give.v.14.give')],['give%2:40:02::'])
+[[Synset('utter.v.02'), Synset('give.v.15')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('utter.v.02.utter'), Lemma('utter.v.02.emit'), Lemma('utter.v.02.let_out'), Lemma('utter.v.02.let_loose')],['utter%2:32:02::', 'emit%2:32:00::', 'let_out%2:32:02::', 'let_loose%2:32:00::'])
+([Lemma('give.v.15.give')],['give%2:41:00::'])
+[[Synset('transfer.v.05'), Synset('pass.v.05'), Synset('release.v.08'), Synset('sacrifice.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('pass.v.05.pass'), Lemma('pass.v.05.hand'), Lemma('pass.v.05.reach'), Lemma('pass.v.05.pass_on'), Lemma('pass.v.05.turn_over'), Lemma('pass.v.05.give')],['pass%2:40:00::', 'hand%2:40:00::', 'reach%2:40:00::', 'pass_on%2:40:01::', 'turn_over%2:40:00::', 'give%2:40:06::'])
+([Lemma('release.v.08.release'), Lemma('release.v.08.relinquish'), Lemma('release.v.08.resign'), Lemma('release.v.08.free'), Lemma('release.v.08.give_up')],['release%2:40:00::', 'relinquish%2:40:01::', 'resign%2:40:04::', 'free%2:40:01::', 'give_up%2:40:03::'])
+([Lemma('sacrifice.v.01.sacrifice'), Lemma('sacrifice.v.01.give')],['sacrifice%2:40:00::', 'give%2:40:10::'])
+[[Synset('transfer.v.05'), Synset('pass.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('pass.v.05.pass'), Lemma('pass.v.05.hand'), Lemma('pass.v.05.reach'), Lemma('pass.v.05.pass_on'), Lemma('pass.v.05.turn_over'), Lemma('pass.v.05.give')],['pass%2:40:00::', 'hand%2:40:00::', 'reach%2:40:00::', 'pass_on%2:40:01::', 'turn_over%2:40:00::', 'give%2:40:06::'])
+[[Synset('use.v.01'), Synset('give.v.18')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('use.v.01.use'), Lemma('use.v.01.utilize'), Lemma('use.v.01.utilise'), Lemma('use.v.01.apply'), Lemma('use.v.01.employ')],['use%2:34:01::', 'utilize%2:34:00::', 'utilise%2:34:00::', 'apply%2:34:00::', 'employ%2:34:00::'])
+([Lemma('give.v.18.give'), Lemma('give.v.18.dedicate'), Lemma('give.v.18.consecrate'), Lemma('give.v.18.commit'), Lemma('give.v.18.devote')],['give%2:32:03::', 'dedicate%2:32:00::', 'consecrate%2:32:04::', 'commit%2:32:01::', 'devote%2:32:00::'])
+[[Synset('treat.v.03'), Synset('administer.v.04'), Synset('give.v.19')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('treat.v.03.treat'), Lemma('treat.v.03.care_for')],['treat%2:29:00::', 'care_for%2:29:00::'])
+([Lemma('administer.v.04.administer'), Lemma('administer.v.04.dispense')],['administer%2:29:00::', 'dispense%2:29:00::'])
+([Lemma('give.v.19.give')],['give%2:40:13::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('distribute.v.01'), Synset('give.v.20')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('distribute.v.01.distribute'), Lemma('distribute.v.01.administer'), Lemma('distribute.v.01.mete_out'), Lemma('distribute.v.01.deal'), Lemma('distribute.v.01.parcel_out'), Lemma('distribute.v.01.lot'), Lemma('distribute.v.01.dispense'), Lemma('distribute.v.01.shell_out'), Lemma('distribute.v.01.deal_out'), Lemma('distribute.v.01.dish_out'), Lemma('distribute.v.01.allot'), Lemma('distribute.v.01.dole_out')],['distribute%2:40:00::', 'administer%2:40:00::', 'mete_out%2:40:00::', 'deal%2:40:01::', 'parcel_out%2:40:00::', 'lot%2:40:00::', 'dispense%2:40:00::', 'shell_out%2:40:00::', 'deal_out%2:40:00::', 'dish_out%2:40:00::', 'allot%2:40:02::', 'dole_out%2:40:00::'])
+([Lemma('give.v.20.give'), Lemma('give.v.20.apply')],['give%2:40:14::', 'apply%2:40:00::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('give.v.21')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('give.v.21.give'), Lemma('give.v.21.render')],['give%2:32:02::', 'render%2:32:00::'])
+[[Synset('grant.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('grant.v.05.grant'), Lemma('grant.v.05.give')],['grant%2:40:05::', 'give%2:40:11::'])
+[[Synset('move.v.03'), Synset('move_over.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.03.move')],['move%2:38:00::'])
+([Lemma('move_over.v.01.move_over'), Lemma('move_over.v.01.give_way'), Lemma('move_over.v.01.give'), Lemma('move_over.v.01.ease_up'), Lemma('move_over.v.01.yield')],['move_over%2:38:00::', 'give_way%2:38:00::', 'give%2:38:00::', 'ease_up%2:38:00::', 'yield%2:38:00::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('provide.v.02'), Synset('feed.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('provide.v.02.provide'), Lemma('provide.v.02.supply'), Lemma('provide.v.02.ply'), Lemma('provide.v.02.cater')],['provide%2:34:00::', 'supply%2:34:00::', 'ply%2:34:00::', 'cater%2:34:00::'])
+([Lemma('feed.v.02.feed'), Lemma('feed.v.02.give')],['feed%2:34:01::', 'give%2:34:00::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('contribute.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('contribute.v.02.contribute'), Lemma('contribute.v.02.give'), Lemma('contribute.v.02.chip_in'), Lemma('contribute.v.02.kick_in')],['contribute%2:40:00::', 'give%2:40:08::', 'chip_in%2:40:00::', 'kick_in%2:40:00::'])
+[[Synset('change.v.02'), Synset('collapse.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('collapse.v.01.collapse'), Lemma('collapse.v.01.fall_in'), Lemma('collapse.v.01.cave_in'), Lemma('collapse.v.01.give'), Lemma('collapse.v.01.give_way'), Lemma('collapse.v.01.break'), Lemma('collapse.v.01.founder')],['collapse%2:38:00::', 'fall_in%2:38:00::', 'cave_in%2:38:00::', 'give%2:38:13::', 'give_way%2:38:01::', 'break%2:38:11::', 'founder%2:38:00::'])
+[[Synset('think.v.03'), Synset('reason.v.03'), Synset('calculate.v.01'), Synset('estimate.v.01'), Synset('give.v.27')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('think.v.03.think'), Lemma('think.v.03.cogitate'), Lemma('think.v.03.cerebrate')],['think%2:31:00::', 'cogitate%2:31:00::', 'cerebrate%2:31:00::'])
+([Lemma('reason.v.03.reason')],['reason%2:31:00::'])
+([Lemma('calculate.v.01.calculate'), Lemma('calculate.v.01.cipher'), Lemma('calculate.v.01.cypher'), Lemma('calculate.v.01.compute'), Lemma('calculate.v.01.work_out'), Lemma('calculate.v.01.reckon'), Lemma('calculate.v.01.figure')],['calculate%2:31:00::', 'cipher%2:31:00::', 'cypher%2:31:00::', 'compute%2:31:00::', 'work_out%2:31:06::', 'reckon%2:31:01::', 'figure%2:31:00::'])
+([Lemma('estimate.v.01.estimate'), Lemma('estimate.v.01.gauge'), Lemma('estimate.v.01.approximate'), Lemma('estimate.v.01.guess'), Lemma('estimate.v.01.judge')],['estimate%2:31:00::', 'gauge%2:31:00::', 'approximate%2:31:00::', 'guess%2:31:01::', 'judge%2:31:01::'])
+([Lemma('give.v.27.give')],['give%2:31:00::'])
+[[Synset('induce.v.02'), Synset('compel.v.01'), Synset('enforce.v.01'), Synset('execute.v.04'), Synset('give.v.28')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('induce.v.02.induce'), Lemma('induce.v.02.stimulate'), Lemma('induce.v.02.cause'), Lemma('induce.v.02.have'), Lemma('induce.v.02.get'), Lemma('induce.v.02.make')],['induce%2:32:00::', 'stimulate%2:32:01::', 'cause%2:32:00::', 'have%2:32:00::', 'get%2:32:00::', 'make%2:32:00::'])
+([Lemma('compel.v.01.compel'), Lemma('compel.v.01.oblige'), Lemma('compel.v.01.obligate')],['compel%2:41:00::', 'oblige%2:41:00::', 'obligate%2:41:00::'])
+([Lemma('enforce.v.01.enforce'), Lemma('enforce.v.01.implement'), Lemma('enforce.v.01.apply')],['enforce%2:41:00::', 'implement%2:41:00::', 'apply%2:41:06::'])
+([Lemma('execute.v.04.execute')],['execute%2:41:03::'])
+([Lemma('give.v.28.give')],['give%2:41:10::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('pay.v.01'), Synset('compensate.v.02'), Synset('give.v.29')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('pay.v.01.pay')],['pay%2:40:00::'])
+([Lemma('compensate.v.02.compensate'), Lemma('compensate.v.02.recompense'), Lemma('compensate.v.02.repair'), Lemma('compensate.v.02.indemnify')],['compensate%2:40:01::', 'recompense%2:40:01::', 'repair%2:40:00::', 'indemnify%2:40:00::'])
+([Lemma('give.v.29.give')],['give%2:40:12::'])
+[[Synset('afford.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('afford.v.04.afford'), Lemma('afford.v.04.open'), Lemma('afford.v.04.give')],['afford%2:40:01::', 'open%2:40:04::', 'give%2:40:15::'])
+[[Synset('show.v.04'), Synset('give.v.31')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('show.v.04.show')],['show%2:39:00::'])
+([Lemma('give.v.31.give')],['give%2:36:13::'])
+[[Synset('make.v.03'), Synset('re-create.v.01'), Synset('perform.v.03'), Synset('give.v.32')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('re-create.v.01.re-create')],['re-create%2:36:00::'])
+([Lemma('perform.v.03.perform')],['perform%2:36:01::'])
+([Lemma('give.v.32.give')],['give%2:36:12::'])
+[[Synset('change.v.02'), Synset('change_magnitude.v.01'), Synset('increase.v.01'), Synset('grow.v.02'), Synset('stretch.v.04'), Synset('give.v.33')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_magnitude.v.01.change_magnitude')],['change_magnitude%2:30:00::'])
+([Lemma('increase.v.01.increase')],['increase%2:30:00::'])
+([Lemma('grow.v.02.grow')],['grow%2:30:00::'])
+([Lemma('stretch.v.04.stretch')],['stretch%2:30:00::'])
+([Lemma('give.v.33.give'), Lemma('give.v.33.yield')],['give%2:35:00::', 'yield%2:35:00::'])
+[[Synset('think.v.03'), Synset('evaluate.v.02'), Synset('think.v.01'), Synset('see.v.05'), Synset('prize.v.01'), Synset('recognize.v.09'), Synset('honor.v.01'), Synset('toast.v.02'), Synset('give.v.34')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('think.v.03.think'), Lemma('think.v.03.cogitate'), Lemma('think.v.03.cerebrate')],['think%2:31:00::', 'cogitate%2:31:00::', 'cerebrate%2:31:00::'])
+([Lemma('evaluate.v.02.evaluate'), Lemma('evaluate.v.02.pass_judgment'), Lemma('evaluate.v.02.judge')],['evaluate%2:31:01::', 'pass_judgment%2:31:00::', 'judge%2:31:00::'])
+([Lemma('think.v.01.think'), Lemma('think.v.01.believe'), Lemma('think.v.01.consider'), Lemma('think.v.01.conceive')],['think%2:31:01::', 'believe%2:31:04::', 'consider%2:31:08::', 'conceive%2:31:00::'])
+([Lemma('see.v.05.see'), Lemma('see.v.05.consider'), Lemma('see.v.05.reckon'), Lemma('see.v.05.view'), Lemma('see.v.05.regard')],['see%2:31:00::', 'consider%2:31:00::', 'reckon%2:31:00::', 'view%2:31:00::', 'regard%2:31:00::'])
+([Lemma('prize.v.01.prize'), Lemma('prize.v.01.value'), Lemma('prize.v.01.treasure'), Lemma('prize.v.01.appreciate')],['prize%2:40:00::', 'value%2:40:00::', 'treasure%2:40:00::', 'appreciate%2:40:00::'])
+([Lemma('recognize.v.09.recognize'), Lemma('recognize.v.09.recognise')],['recognize%2:41:01::', 'recognise%2:41:01::'])
+([Lemma('honor.v.01.honor'), Lemma('honor.v.01.honour'), Lemma('honor.v.01.reward')],['honor%2:41:00::', 'honour%2:41:00::', 'reward%2:41:01::'])
+([Lemma('toast.v.02.toast'), Lemma('toast.v.02.drink'), Lemma('toast.v.02.pledge'), Lemma('toast.v.02.salute'), Lemma('toast.v.02.wassail')],['toast%2:34:00::', 'drink%2:34:12::', 'pledge%2:34:00::', 'salute%2:34:00::', 'wassail%2:34:00::'])
+([Lemma('give.v.34.give')],['give%2:34:10::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('accord.v.02'), Synset('give.v.35')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('accord.v.02.accord'), Lemma('accord.v.02.allot'), Lemma('accord.v.02.grant')],['accord%2:40:00::', 'allot%2:40:00::', 'grant%2:40:00::'])
+([Lemma('give.v.35.give')],['give%2:32:11::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('tell.v.02'), Synset('impart.v.01'), Synset('convey.v.01'), Synset('express.v.01'), Synset('give.v.36')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('tell.v.02.tell')],['tell%2:32:00::'])
+([Lemma('impart.v.01.impart'), Lemma('impart.v.01.leave'), Lemma('impart.v.01.give'), Lemma('impart.v.01.pass_on')],['impart%2:40:00::', 'leave%2:40:02::', 'give%2:40:09::', 'pass_on%2:40:03::'])
+([Lemma('convey.v.01.convey')],['convey%2:32:00::'])
+([Lemma('express.v.01.express'), Lemma('express.v.01.show'), Lemma('express.v.01.evince')],['express%2:32:01::', 'show%2:32:02::', 'evince%2:32:00::'])
+([Lemma('give.v.36.give')],['give%2:32:08::'])
+[[Synset('transfer.v.05'), Synset('pass.v.05'), Synset('entrust.v.01'), Synset('consign.v.02'), Synset('pledge.v.04'), Synset('give.v.37')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('pass.v.05.pass'), Lemma('pass.v.05.hand'), Lemma('pass.v.05.reach'), Lemma('pass.v.05.pass_on'), Lemma('pass.v.05.turn_over'), Lemma('pass.v.05.give')],['pass%2:40:00::', 'hand%2:40:00::', 'reach%2:40:00::', 'pass_on%2:40:01::', 'turn_over%2:40:00::', 'give%2:40:06::'])
+([Lemma('entrust.v.01.entrust'), Lemma('entrust.v.01.intrust'), Lemma('entrust.v.01.trust'), Lemma('entrust.v.01.confide'), Lemma('entrust.v.01.commit')],['entrust%2:40:00::', 'intrust%2:40:00::', 'trust%2:40:00::', 'confide%2:40:00::', 'commit%2:40:00::'])
+([Lemma('consign.v.02.consign'), Lemma('consign.v.02.charge')],['consign%2:40:00::', 'charge%2:40:04::'])
+([Lemma('pledge.v.04.pledge')],['pledge%2:32:02::'])
+([Lemma('give.v.37.give')],['give%2:32:15::'])
+[[Synset('move.v.02'), Synset('send.v.01'), Synset('refer.v.04'), Synset('submit.v.01'), Synset('give.v.38')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.02.move'), Lemma('move.v.02.displace')],['move%2:38:01::', 'displace%2:38:02::'])
+([Lemma('send.v.01.send'), Lemma('send.v.01.direct')],['send%2:38:01::', 'direct%2:38:01::'])
+([Lemma('refer.v.04.refer')],['refer%2:38:00::'])
+([Lemma('submit.v.01.submit'), Lemma('submit.v.01.subject')],['submit%2:32:01::', 'subject%2:32:04::'])
+([Lemma('give.v.38.give')],['give%2:32:14::'])
+[[Synset('induce.v.02'), Synset('lead.v.05'), Synset('give.v.39')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('induce.v.02.induce'), Lemma('induce.v.02.stimulate'), Lemma('induce.v.02.cause'), Lemma('induce.v.02.have'), Lemma('induce.v.02.get'), Lemma('induce.v.02.make')],['induce%2:32:00::', 'stimulate%2:32:01::', 'cause%2:32:00::', 'have%2:32:00::', 'get%2:32:00::', 'make%2:32:00::'])
+([Lemma('lead.v.05.lead')],['lead%2:32:00::'])
+([Lemma('give.v.39.give')],['give%2:32:09::'])
+[[Synset('act.v.01'), Synset('react.v.01'), Synset('accept.v.03'), Synset('permit.v.01'), Synset('give.v.40')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('react.v.01.react'), Lemma('react.v.01.respond')],['react%2:31:00::', 'respond%2:31:00::'])
+([Lemma('accept.v.03.accept'), Lemma('accept.v.03.consent'), Lemma('accept.v.03.go_for')],['accept%2:32:00::', 'consent%2:32:00::', 'go_for%2:32:00::'])
+([Lemma('permit.v.01.permit'), Lemma('permit.v.01.allow'), Lemma('permit.v.01.let'), Lemma('permit.v.01.countenance')],['permit%2:32:00::', 'allow%2:32:00::', 'let%2:32:02::', 'countenance%2:32:00::'])
+([Lemma('give.v.40.give')],['give%2:32:07::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inflict.v.01'), Synset('give.v.41')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inflict.v.01.inflict'), Lemma('inflict.v.01.bring_down'), Lemma('inflict.v.01.visit'), Lemma('inflict.v.01.impose')],['inflict%2:32:00::', 'bring_down%2:32:00::', 'visit%2:32:01::', 'impose%2:32:00::'])
+([Lemma('give.v.41.give')],['give%2:32:10::'])
+[[Synset('happen.v.01'), Synset('give.v.42')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('happen.v.01.happen'), Lemma('happen.v.01.hap'), Lemma('happen.v.01.go_on'), Lemma('happen.v.01.pass_off'), Lemma('happen.v.01.occur'), Lemma('happen.v.01.pass'), Lemma('happen.v.01.fall_out'), Lemma('happen.v.01.come_about'), Lemma('happen.v.01.take_place')],['happen%2:30:00::', 'hap%2:30:00::', 'go_on%2:30:00::', 'pass_off%2:30:00::', 'occur%2:30:00::', 'pass%2:30:00::', 'fall_out%2:30:00::', 'come_about%2:30:00::', 'take_place%2:30:00::'])
+([Lemma('give.v.42.give')],['give%2:30:13::'])
+[[Synset('act.v.01'), Synset('react.v.01'), Synset('accept.v.03'), Synset('give.v.43')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('react.v.01.react'), Lemma('react.v.01.respond')],['react%2:31:00::', 'respond%2:31:00::'])
+([Lemma('accept.v.03.accept'), Lemma('accept.v.03.consent'), Lemma('accept.v.03.go_for')],['accept%2:32:00::', 'consent%2:32:00::', 'go_for%2:32:00::'])
+([Lemma('give.v.43.give')],['give%2:29:11::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('offer.v.02'), Synset('give.v.44')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('offer.v.02.offer'), Lemma('offer.v.02.proffer')],['offer%2:40:00::', 'proffer%2:40:00::'])
+([Lemma('give.v.44.give')],['give%2:29:10::'])
+TOKEN AND TOKEN NEXT LIST:
+[[Section, 5], [5, describes], [describes, how], [how, graph], [graph, patterns], [patterns, map], [map, back], [back, to], [to, a], [a, graph], [graph, representation], [representation, corresponding], [corresponding, to], [to, a], [a, given], [given, event], [event, pair], [pair, .]]
+TOKEN'S TAG AND TOKEN'S TAG NEXT LIST:
+[['NN', 'CD'], ['CD', 'VBZ'], ['VBZ', 'WRB'], ['WRB', 'NN'], ['NN', 'NNS'], ['NNS', 'VBP'], ['VBP', 'RB'], ['RB', 'IN'], ['IN', 'DT'], ['DT', 'NN'], ['NN', 'NN'], ['NN', 'VBG'], ['VBG', 'IN'], ['IN', 'DT'], ['DT', 'VBN'], ['VBN', 'NN'], ['NN', 'NN'], ['NN', '.']]
+ENABLEMENT'S TUPLE LIST:
+[[describes, how]]
+ENABLEMENT:
+{describes: map}
+
+EVENT PAIR TOTALLY FOUND:
+[(organized, follows), (extracted, can), (presents, extracted), (describes, map), (describes, map)]
+VERB:
+[remaining, organized, follows]
+VERB:
+[describes, building]
+VERB:
+[presents, can, extracted]
+VERB:
+[describes, map, corresponding, given]
+VERB:
+[describes, map, corresponding, given]
+CAUSAL RELATION MATCH: 1
+CAUSAL RELATION NO MATCH: 3
+NO CAUSAL RELATION MATCH: 0
+NO CAUSAL RELATION NO MATCH: 1
+PATTERN'S PROBABILITY TO HAVE COME FROM INDIPENDENT VARIABLES: 0.8
+VERB:
+[remaining, organized, follows]
+VERB:
+[describes, building]
+VERB:
+[presents, can, extracted]
+VERB:
+[describes, map, corresponding, given]
+VERB:
+[describes, map, corresponding, given]
+CAUSAL RELATION MATCH: 1
+CAUSAL RELATION NO MATCH: 3
+NO CAUSAL RELATION MATCH: 0
+NO CAUSAL RELATION NO MATCH: 1
+PATTERN'S PROBABILITY TO HAVE COME FROM INDIPENDENT VARIABLES: 0.8
+VERB:
+[remaining, organized, follows]
+VERB:
+[describes, building]
+VERB:
+[presents, can, extracted]
+VERB:
+[describes, map, corresponding, given]
+VERB:
+[describes, map, corresponding, given]
+CAUSAL RELATION MATCH: 1
+CAUSAL RELATION NO MATCH: 3
+NO CAUSAL RELATION MATCH: 0
+NO CAUSAL RELATION NO MATCH: 1
+PATTERN'S PROBABILITY TO HAVE COME FROM INDIPENDENT VARIABLES: 0.8
+VERB:
+[remaining, organized, follows]
+VERB:
+[describes, building]
+VERB:
+[presents, can, extracted]
+VERB:
+[describes, map, corresponding, given]
+VERB:
+[describes, map, corresponding, given]
+CAUSAL RELATION MATCH: 1
+CAUSAL RELATION NO MATCH: 3
+NO CAUSAL RELATION MATCH: 1
+NO CAUSAL RELATION NO MATCH: 0
+PATTERN'S PROBABILITY TO HAVE COME FROM INDIPENDENT VARIABLES: 0.4
+VERB:
+[remaining, organized, follows]
+VERB:
+[describes, building]
+VERB:
+[presents, can, extracted]
+VERB:
+[describes, map, corresponding, given]
+VERB:
+[describes, map, corresponding, given]
+CAUSAL RELATION MATCH: 1
+CAUSAL RELATION NO MATCH: 3
+NO CAUSAL RELATION MATCH: 1
+NO CAUSAL RELATION NO MATCH: 0
+PATTERN'S PROBABILITY TO HAVE COME FROM INDIPENDENT VARIABLES: 0.4
+EVENT PAIR TOTALLY FOUND, WITH TARGETS:
+{'organized': 1, 'extracted': 1, 'presents': 1, 'describes': 1}
+PATTERN organized PRECISION: 0.2
+PATTERN organized RECALL: 0.25
+PATTERN organized F1: 0.22222222222222224
+PATTERN extracted PRECISION: 0.2
+PATTERN extracted RECALL: 0.25
+PATTERN extracted F1: 0.22222222222222224
+PATTERN presents PRECISION: 0.2
+PATTERN presents RECALL: 0.25
+PATTERN presents F1: 0.22222222222222224
+PATTERN describes PRECISION: 0.4
+PATTERN describes RECALL: 0.5
+PATTERN describes F1: 0.4444444444444445
