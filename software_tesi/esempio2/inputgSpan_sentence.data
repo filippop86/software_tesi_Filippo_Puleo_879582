@@ -1,0 +1,41 @@
+t # 0
+v 0 wishes
+v 1 VBZ
+v 2 TO
+v 3 buy
+e 0 3 enabl
+e 1 0 pos
+e 1 2 next
+t # 1
+v 0 buy
+v 1 VB
+v 2 ,
+v 3 win
+e 0 3 enabl
+e 1 0 pos
+e 1 2 next
+t # 2
+v 0 win
+v 1 VB
+v 2 ,
+v 3 steal
+e 0 3 enabl
+e 1 0 pos
+e 1 2 next
+t # 0
+v 0 belongs
+v 1 VBZ
+v 2 IN
+v 3 owned
+e 0 3 enabl
+e 1 0 pos
+e 1 2 next
+t # 0
+v 0 go
+v 1 VBP
+v 2 IN
+v 3 leave
+e 0 3 enabl
+e 1 0 pos
+e 1 2 next
+t # -1
