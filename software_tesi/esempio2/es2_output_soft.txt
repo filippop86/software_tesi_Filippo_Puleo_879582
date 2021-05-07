@@ -1,0 +1,850 @@
+SENTENCE:
+In ancient Rome, some neighbors live in three adjacent houses.
+[In,in,ADP,IN,prep]
+[ancient,ancient,ADJ,JJ,amod]
+[Rome,Rome,PROPN,NNP,pobj]
+[,,,,PUNCT,,,punct]
+[some,some,DET,DT,det]
+[neighbors,neighbor,NOUN,NNS,nsubj]
+[live,live,VERB,VBP,ROOT]
+[in,in,ADP,IN,prep]
+[three,three,NUM,CD,nummod]
+[adjacent,adjacent,ADJ,JJ,amod]
+[houses,house,NOUN,NNS,pobj]
+[.,.,PUNCT,.,punct]
+VERB:
+[live]
+TOKEN HYPERNIUM: 
+[live] :[Synset('populate.v.01'), Synset('live.v.02'), Synset('survive.v.01'), Synset('exist.v.02'), Synset('be.v.11'), Synset('know.v.05'), Synset('live.v.07')]
+[[Synset('be.v.03'), Synset('populate.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.03.be')],['be%2:42:05::'])
+([Lemma('populate.v.01.populate'), Lemma('populate.v.01.dwell'), Lemma('populate.v.01.live'), Lemma('populate.v.01.inhabit')],['populate%2:42:00::', 'dwell%2:42:00::', 'live%2:42:08::', 'inhabit%2:42:00::'])
+[[Synset('live.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('live.v.02.live')],['live%2:42:06::'])
+[[Synset('survive.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('survive.v.01.survive'), Lemma('survive.v.01.last'), Lemma('survive.v.01.live'), Lemma('survive.v.01.live_on'), Lemma('survive.v.01.go'), Lemma('survive.v.01.endure'), Lemma('survive.v.01.hold_up'), Lemma('survive.v.01.hold_out')],['survive%2:42:01::', 'last%2:42:01::', 'live%2:42:04::', 'live_on%2:42:00::', 'go%2:42:14::', 'endure%2:42:00::', 'hold_up%2:42:00::', 'hold_out%2:42:00::'])
+[[Synset('exist.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('exist.v.02.exist'), Lemma('exist.v.02.survive'), Lemma('exist.v.02.live'), Lemma('exist.v.02.subsist')],['exist%2:42:01::', 'survive%2:42:00::', 'live%2:42:01::', 'subsist%2:42:00::'])
+[[Synset('be.v.11')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.11.be'), Lemma('be.v.11.live')],['be%2:42:01::', 'live%2:42:00::'])
+[[Synset('change.v.02'), Synset('undergo.v.01'), Synset('experience.v.01'), Synset('know.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('undergo.v.01.undergo')],['undergo%2:39:04::'])
+([Lemma('experience.v.01.experience'), Lemma('experience.v.01.see'), Lemma('experience.v.01.go_through')],['experience%2:39:01::', 'see%2:39:12::', 'go_through%2:39:00::'])
+([Lemma('know.v.05.know'), Lemma('know.v.05.experience'), Lemma('know.v.05.live')],['know%2:31:04::', 'experience%2:31:00::', 'live%2:31:00::'])
+[[Synset('live.v.07')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('live.v.07.live')],['live%2:42:07::'])
+TOKEN AND TOKEN NEXT LIST:
+[[In, ancient], [ancient, Rome], [Rome, ,], [,, some], [some, neighbors], [neighbors, live], [live, in], [in, three], [three, adjacent], [adjacent, houses], [houses, .]]
+TOKEN'S TAG AND TOKEN'S TAG NEXT LIST:
+[['IN', 'JJ'], ['JJ', 'NNP'], ['NNP', ','], [',', 'DT'], ['DT', 'NNS'], ['NNS', 'VBP'], ['VBP', 'IN'], ['IN', 'CD'], ['CD', 'JJ'], ['JJ', 'NNS'], ['NNS', '.']]
+THERE ISN'T ENABLEMENT!
+
+SENTENCE:
+In the center is the house of Senex, who lives there with wife Domina, son Hero, and several slaves, including head slave Hysterium and the musical's main character Pseudolus.
+[In,in,ADP,IN,prep]
+[the,the,DET,DT,det]
+[center,center,NOUN,NN,pobj]
+[is,be,AUX,VBZ,ROOT]
+[the,the,DET,DT,det]
+[house,house,NOUN,NN,attr]
+[of,of,ADP,IN,prep]
+[Senex,Senex,PROPN,NNP,pobj]
+[,,,,PUNCT,,,punct]
+[who,who,PRON,WP,nsubj]
+[lives,live,VERB,VBZ,relcl]
+[there,there,ADV,RB,advmod]
+[with,with,ADP,IN,prep]
+[wife,wife,NOUN,NN,compound]
+[Domina,Domina,PROPN,NNP,pobj]
+[,,,,PUNCT,,,punct]
+[son,son,NOUN,NN,compound]
+[Hero,Hero,PROPN,NNP,appos]
+[,,,,PUNCT,,,punct]
+[and,and,CCONJ,CC,cc]
+[several,several,ADJ,JJ,amod]
+[slaves,slave,NOUN,NNS,conj]
+[,,,,PUNCT,,,punct]
+[including,include,VERB,VBG,prep]
+[head,head,NOUN,NN,compound]
+[slave,slave,NOUN,NN,compound]
+[Hysterium,Hysterium,PROPN,NNP,pobj]
+[and,and,CCONJ,CC,cc]
+[the,the,DET,DT,det]
+[musical,musical,NOUN,NN,poss]
+['s,'s,PART,POS,case]
+[main,main,ADJ,JJ,amod]
+[character,character,NOUN,NN,conj]
+[Pseudolus,Pseudolus,PROPN,NNP,appos]
+[.,.,PUNCT,.,punct]
+VERB:
+[lives, including]
+TOKEN HYPERNIUM: 
+[lives] :[Synset('populate.v.01'), Synset('live.v.02'), Synset('survive.v.01'), Synset('exist.v.02'), Synset('be.v.11'), Synset('know.v.05'), Synset('live.v.07')]
+[[Synset('be.v.03'), Synset('populate.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.03.be')],['be%2:42:05::'])
+([Lemma('populate.v.01.populate'), Lemma('populate.v.01.dwell'), Lemma('populate.v.01.live'), Lemma('populate.v.01.inhabit')],['populate%2:42:00::', 'dwell%2:42:00::', 'live%2:42:08::', 'inhabit%2:42:00::'])
+[[Synset('live.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('live.v.02.live')],['live%2:42:06::'])
+[[Synset('survive.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('survive.v.01.survive'), Lemma('survive.v.01.last'), Lemma('survive.v.01.live'), Lemma('survive.v.01.live_on'), Lemma('survive.v.01.go'), Lemma('survive.v.01.endure'), Lemma('survive.v.01.hold_up'), Lemma('survive.v.01.hold_out')],['survive%2:42:01::', 'last%2:42:01::', 'live%2:42:04::', 'live_on%2:42:00::', 'go%2:42:14::', 'endure%2:42:00::', 'hold_up%2:42:00::', 'hold_out%2:42:00::'])
+[[Synset('exist.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('exist.v.02.exist'), Lemma('exist.v.02.survive'), Lemma('exist.v.02.live'), Lemma('exist.v.02.subsist')],['exist%2:42:01::', 'survive%2:42:00::', 'live%2:42:01::', 'subsist%2:42:00::'])
+[[Synset('be.v.11')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.11.be'), Lemma('be.v.11.live')],['be%2:42:01::', 'live%2:42:00::'])
+[[Synset('change.v.02'), Synset('undergo.v.01'), Synset('experience.v.01'), Synset('know.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('undergo.v.01.undergo')],['undergo%2:39:04::'])
+([Lemma('experience.v.01.experience'), Lemma('experience.v.01.see'), Lemma('experience.v.01.go_through')],['experience%2:39:01::', 'see%2:39:12::', 'go_through%2:39:00::'])
+([Lemma('know.v.05.know'), Lemma('know.v.05.experience'), Lemma('know.v.05.live')],['know%2:31:04::', 'experience%2:31:00::', 'live%2:31:00::'])
+[[Synset('live.v.07')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('live.v.07.live')],['live%2:42:07::'])
+TOKEN HYPERNIUM: 
+[including] :[Synset('include.v.01'), Synset('include.v.02'), Synset('include.v.03'), Synset('admit.v.03')]
+[[Synset('include.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('include.v.01.include')],['include%2:42:00::'])
+[[Synset('think.v.03'), Synset('evaluate.v.02'), Synset('think.v.01'), Synset('see.v.05'), Synset('include.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('think.v.03.think'), Lemma('think.v.03.cogitate'), Lemma('think.v.03.cerebrate')],['think%2:31:00::', 'cogitate%2:31:00::', 'cerebrate%2:31:00::'])
+([Lemma('evaluate.v.02.evaluate'), Lemma('evaluate.v.02.pass_judgment'), Lemma('evaluate.v.02.judge')],['evaluate%2:31:01::', 'pass_judgment%2:31:00::', 'judge%2:31:00::'])
+([Lemma('think.v.01.think'), Lemma('think.v.01.believe'), Lemma('think.v.01.consider'), Lemma('think.v.01.conceive')],['think%2:31:01::', 'believe%2:31:04::', 'consider%2:31:08::', 'conceive%2:31:00::'])
+([Lemma('see.v.05.see'), Lemma('see.v.05.consider'), Lemma('see.v.05.reckon'), Lemma('see.v.05.view'), Lemma('see.v.05.regard')],['see%2:31:00::', 'consider%2:31:00::', 'reckon%2:31:00::', 'view%2:31:00::', 'regard%2:31:00::'])
+([Lemma('include.v.02.include')],['include%2:31:00::'])
+[[Synset('change.v.02'), Synset('change_magnitude.v.01'), Synset('increase.v.01'), Synset('add.v.01'), Synset('include.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_magnitude.v.01.change_magnitude')],['change_magnitude%2:30:00::'])
+([Lemma('increase.v.01.increase')],['increase%2:30:00::'])
+([Lemma('add.v.01.add')],['add%2:30:00::'])
+([Lemma('include.v.03.include')],['include%2:30:00::'])
+[[Synset('act.v.01'), Synset('react.v.01'), Synset('accept.v.03'), Synset('permit.v.01'), Synset('admit.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('react.v.01.react'), Lemma('react.v.01.respond')],['react%2:31:00::', 'respond%2:31:00::'])
+([Lemma('accept.v.03.accept'), Lemma('accept.v.03.consent'), Lemma('accept.v.03.go_for')],['accept%2:32:00::', 'consent%2:32:00::', 'go_for%2:32:00::'])
+([Lemma('permit.v.01.permit'), Lemma('permit.v.01.allow'), Lemma('permit.v.01.let'), Lemma('permit.v.01.countenance')],['permit%2:32:00::', 'allow%2:32:00::', 'let%2:32:02::', 'countenance%2:32:00::'])
+([Lemma('admit.v.03.admit'), Lemma('admit.v.03.let_in'), Lemma('admit.v.03.include')],['admit%2:41:00::', 'let_in%2:41:00::', 'include%2:41:03::'])
+TOKEN AND TOKEN NEXT LIST:
+[[In, the], [the, center], [center, is], [is, the], [the, house], [house, of], [of, Senex], [Senex, ,], [,, who], [who, lives], [lives, there], [there, with], [with, wife], [wife, Domina], [Domina, ,], [,, son], [son, Hero], [Hero, ,], [,, and], [and, several], [several, slaves], [slaves, ,], [,, including], [including, head], [head, slave], [slave, Hysterium], [Hysterium, and], [and, the], [the, musical], [musical, 's], ['s, main], [main, character], [character, Pseudolus], [Pseudolus, .]]
+TOKEN'S TAG AND TOKEN'S TAG NEXT LIST:
+[['IN', 'DT'], ['DT', 'NN'], ['NN', 'VBZ'], ['VBZ', 'DT'], ['DT', 'NN'], ['NN', 'IN'], ['IN', 'NNP'], ['NNP', ','], [',', 'WP'], ['WP', 'VBZ'], ['VBZ', 'RB'], ['RB', 'IN'], ['IN', 'NN'], ['NN', 'NNP'], ['NNP', ','], [',', 'NN'], ['NN', 'NNP'], ['NNP', ','], [',', 'CC'], ['CC', 'JJ'], ['JJ', 'NNS'], ['NNS', ','], [',', 'VBG'], ['VBG', 'NN'], ['NN', 'NN'], ['NN', 'NNP'], ['NNP', 'CC'], ['CC', 'DT'], ['DT', 'NN'], ['NN', 'POS'], ['POS', 'JJ'], ['JJ', 'NN'], ['NN', 'NNP'], ['NNP', '.']]
+THERE ISN'T ENABLEMENT!
+
+SENTENCE:
+A slave belonging to Hero, Pseudolus wishes to buy, win, or steal his freedom.
+[A,a,DET,DT,det]
+[slave,slave,NOUN,NN,dep]
+[belonging,belong,VERB,VBG,acl]
+[to,to,ADP,IN,prep]
+[Hero,Hero,PROPN,NNP,pobj]
+[,,,,PUNCT,,,punct]
+[Pseudolus,Pseudolus,PROPN,NNP,nsubj]
+[wishes,wish,VERB,VBZ,ROOT]
+[to,to,PART,TO,aux]
+[buy,buy,VERB,VB,xcomp]
+[,,,,PUNCT,,,punct]
+[win,win,VERB,VB,conj]
+[,,,,PUNCT,,,punct]
+[or,or,CCONJ,CC,cc]
+[steal,steal,VERB,VB,conj]
+[his,-PRON-,DET,PRP$,poss]
+[freedom,freedom,NOUN,NN,dobj]
+[.,.,PUNCT,.,punct]
+VERB:
+[belonging, wishes, buy, win, steal]
+TOKEN HYPERNIUM: 
+[belonging] :[Synset('belong.v.01'), Synset('belong.v.02'), Synset('belong.v.03'), Synset('belong.v.04'), Synset('belong.v.05'), Synset('belong_to.v.01')]
+[[Synset('be.v.01'), Synset('belong.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('belong.v.01.belong')],['belong%2:40:00::'])
+[[Synset('be.v.01'), Synset('belong.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('belong.v.02.belong')],['belong%2:42:02::'])
+[[Synset('be.v.03'), Synset('belong.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.03.be')],['be%2:42:05::'])
+([Lemma('belong.v.03.belong'), Lemma('belong.v.03.go')],['belong%2:42:03::', 'go%2:42:04::'])
+[[Synset('be.v.01'), Synset('belong.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('belong.v.04.belong')],['belong%2:42:01::'])
+[[Synset('be.v.01'), Synset('belong.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('belong.v.05.belong')],['belong%2:42:07::'])
+[[Synset('belong_to.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('belong_to.v.01.belong_to'), Lemma('belong_to.v.01.belong')],['belong_to%2:42:00::', 'belong%2:42:06::'])
+TOKEN HYPERNIUM: 
+[wishes] :[Synset('wish.v.01'), Synset('wish.v.02'), Synset('wish.v.03'), Synset('wish.v.04'), Synset('wish.v.05'), Synset('wish.v.06')]
+[[Synset('desire.v.01'), Synset('wish.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('desire.v.01.desire'), Lemma('desire.v.01.want')],['desire%2:37:00::', 'want%2:37:00::'])
+([Lemma('wish.v.01.wish')],['wish%2:37:00::'])
+[[Synset('desire.v.01'), Synset('wish.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('desire.v.01.desire'), Lemma('desire.v.01.want')],['desire%2:37:00::', 'want%2:37:00::'])
+([Lemma('wish.v.02.wish'), Lemma('wish.v.02.care'), Lemma('wish.v.02.like')],['wish%2:37:02::', 'care%2:37:00::', 'like%2:37:01::'])
+[[Synset('express.v.02'), Synset('wish.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('express.v.02.express'), Lemma('express.v.02.verbalize'), Lemma('express.v.02.verbalise'), Lemma('express.v.02.utter'), Lemma('express.v.02.give_tongue_to')],['express%2:32:00::', 'verbalize%2:32:03::', 'verbalise%2:32:03::', 'utter%2:32:01::', 'give_tongue_to%2:32:00::'])
+([Lemma('wish.v.03.wish')],['wish%2:32:02::'])
+[[Synset('desire.v.01'), Synset('wish.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('desire.v.01.desire'), Lemma('desire.v.01.want')],['desire%2:37:00::', 'want%2:37:00::'])
+([Lemma('wish.v.04.wish'), Lemma('wish.v.04.wish_well')],['wish%2:37:01::', 'wish_well%2:37:00::'])
+[[Synset('move.v.02'), Synset('transfer.v.02'), Synset('convey.v.03'), Synset('communicate.v.01'), Synset('request.v.01'), Synset('order.v.02'), Synset('wish.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.02.move'), Lemma('move.v.02.displace')],['move%2:38:01::', 'displace%2:38:02::'])
+([Lemma('transfer.v.02.transfer')],['transfer%2:40:01::'])
+([Lemma('convey.v.03.convey'), Lemma('convey.v.03.transmit'), Lemma('convey.v.03.communicate')],['convey%2:40:10::', 'transmit%2:40:10::', 'communicate%2:40:10::'])
+([Lemma('communicate.v.01.communicate'), Lemma('communicate.v.01.pass_on'), Lemma('communicate.v.01.pass'), Lemma('communicate.v.01.pass_along'), Lemma('communicate.v.01.put_across')],['communicate%2:32:01::', 'pass_on%2:32:00::', 'pass%2:32:01::', 'pass_along%2:32:00::', 'put_across%2:32:00::'])
+([Lemma('request.v.01.request'), Lemma('request.v.01.bespeak'), Lemma('request.v.01.call_for'), Lemma('request.v.01.quest')],['request%2:32:01::', 'bespeak%2:32:00::', 'call_for%2:32:04::', 'quest%2:32:01::'])
+([Lemma('order.v.02.order')],['order%2:32:00::'])
+([Lemma('wish.v.05.wish')],['wish%2:32:01::'])
+[[Synset('travel.v.01'), Synset('come.v.01'), Synset('address.v.09'), Synset('greet.v.01'), Synset('wish.v.06')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('travel.v.01.travel'), Lemma('travel.v.01.go'), Lemma('travel.v.01.move'), Lemma('travel.v.01.locomote')],['travel%2:38:00::', 'go%2:38:00::', 'move%2:38:03::', 'locomote%2:38:00::'])
+([Lemma('come.v.01.come'), Lemma('come.v.01.come_up')],['come%2:38:00::', 'come_up%2:38:02::'])
+([Lemma('address.v.09.address'), Lemma('address.v.09.accost'), Lemma('address.v.09.come_up_to')],['address%2:32:01::', 'accost%2:32:01::', 'come_up_to%2:32:00::'])
+([Lemma('greet.v.01.greet'), Lemma('greet.v.01.recognize'), Lemma('greet.v.01.recognise')],['greet%2:32:00::', 'recognize%2:32:01::', 'recognise%2:32:01::'])
+([Lemma('wish.v.06.wish'), Lemma('wish.v.06.bid')],['wish%2:32:00::', 'bid%2:32:01::'])
+TOKEN HYPERNIUM: 
+[buy] :[Synset('buy.v.01'), Synset('bribe.v.01'), Synset('buy.v.03'), Synset('buy.v.04'), Synset('buy.v.05')]
+[[Synset('get.v.01'), Synset('buy.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('get.v.01.get'), Lemma('get.v.01.acquire')],['get%2:40:00::', 'acquire%2:40:00::'])
+([Lemma('buy.v.01.buy'), Lemma('buy.v.01.purchase')],['buy%2:40:00::', 'purchase%2:40:00::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('pay.v.01'), Synset('bribe.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('pay.v.01.pay')],['pay%2:40:00::'])
+([Lemma('bribe.v.01.bribe'), Lemma('bribe.v.01.corrupt'), Lemma('bribe.v.01.buy'), Lemma('bribe.v.01.grease_one's_palms')],['bribe%2:40:00::', 'corrupt%2:40:00::', 'buy%2:40:02::', "grease_one's_palms%2:40:00::"])
+[[Synset('be.v.01'), Synset('buy.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('buy.v.03.buy')],['buy%2:42:00::'])
+[[Synset('get.v.01'), Synset('buy.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('get.v.01.get'), Lemma('get.v.01.acquire')],['get%2:40:00::', 'acquire%2:40:00::'])
+([Lemma('buy.v.04.buy')],['buy%2:40:03::'])
+[[Synset('think.v.03'), Synset('evaluate.v.02'), Synset('accept.v.01'), Synset('believe.v.01'), Synset('buy.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('think.v.03.think'), Lemma('think.v.03.cogitate'), Lemma('think.v.03.cerebrate')],['think%2:31:00::', 'cogitate%2:31:00::', 'cerebrate%2:31:00::'])
+([Lemma('evaluate.v.02.evaluate'), Lemma('evaluate.v.02.pass_judgment'), Lemma('evaluate.v.02.judge')],['evaluate%2:31:01::', 'pass_judgment%2:31:00::', 'judge%2:31:00::'])
+([Lemma('accept.v.01.accept')],['accept%2:31:00::'])
+([Lemma('believe.v.01.believe')],['believe%2:31:00::'])
+([Lemma('buy.v.05.buy')],['buy%2:31:09::'])
+TOKEN HYPERNIUM: 
+[win] :[Synset('win.v.01'), Synset('acquire.v.05'), Synset('gain.v.05'), Synset('succeed.v.01')]
+[[Synset('win.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('win.v.01.win')],['win%2:33:00::'])
+[[Synset('get.v.01'), Synset('acquire.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('get.v.01.get'), Lemma('get.v.01.acquire')],['get%2:40:00::', 'acquire%2:40:00::'])
+([Lemma('acquire.v.05.acquire'), Lemma('acquire.v.05.win'), Lemma('acquire.v.05.gain')],['acquire%2:40:06::', 'win%2:40:00::', 'gain%2:40:01::'])
+[[Synset('gain.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('gain.v.05.gain'), Lemma('gain.v.05.advance'), Lemma('gain.v.05.win'), Lemma('gain.v.05.pull_ahead'), Lemma('gain.v.05.make_headway'), Lemma('gain.v.05.get_ahead'), Lemma('gain.v.05.gain_ground')],['gain%2:33:00::', 'advance%2:33:00::', 'win%2:33:01::', 'pull_ahead%2:33:00::', 'make_headway%2:33:00::', 'get_ahead%2:33:00::', 'gain_ground%2:33:00::'])
+[[Synset('succeed.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('succeed.v.01.succeed'), Lemma('succeed.v.01.win'), Lemma('succeed.v.01.come_through'), Lemma('succeed.v.01.bring_home_the_bacon'), Lemma('succeed.v.01.deliver_the_goods')],['succeed%2:41:00::', 'win%2:41:04::', 'come_through%2:41:00::', 'bring_home_the_bacon%2:41:00::', 'deliver_the_goods%2:41:00::'])
+TOKEN HYPERNIUM: 
+[steal] :[Synset('steal.v.01'), Synset('steal.v.02'), Synset('steal.v.03')]
+[[Synset('take.v.21'), Synset('steal.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('take.v.21.take')],['take%2:40:01::'])
+([Lemma('steal.v.01.steal')],['steal%2:40:00::'])
+[[Synset('move.v.03'), Synset('steal.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.03.move')],['move%2:38:00::'])
+([Lemma('steal.v.02.steal'), Lemma('steal.v.02.slip')],['steal%2:38:00::', 'slip%2:38:01::'])
+[[Synset('gain.v.05'), Synset('steal.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('gain.v.05.gain'), Lemma('gain.v.05.advance'), Lemma('gain.v.05.win'), Lemma('gain.v.05.pull_ahead'), Lemma('gain.v.05.make_headway'), Lemma('gain.v.05.get_ahead'), Lemma('gain.v.05.gain_ground')],['gain%2:33:00::', 'advance%2:33:00::', 'win%2:33:01::', 'pull_ahead%2:33:00::', 'make_headway%2:33:00::', 'get_ahead%2:33:00::', 'gain_ground%2:33:00::'])
+([Lemma('steal.v.03.steal')],['steal%2:33:00::'])
+TOKEN AND TOKEN NEXT LIST:
+[[A, slave], [slave, belonging], [belonging, to], [to, Hero], [Hero, ,], [,, Pseudolus], [Pseudolus, wishes], [wishes, to], [to, buy], [buy, ,], [,, win], [win, ,], [,, or], [or, steal], [steal, his], [his, freedom], [freedom, .]]
+TOKEN'S TAG AND TOKEN'S TAG NEXT LIST:
+[['DT', 'NN'], ['NN', 'VBG'], ['VBG', 'IN'], ['IN', 'NNP'], ['NNP', ','], [',', 'NNP'], ['NNP', 'VBZ'], ['VBZ', 'TO'], ['TO', 'VB'], ['VB', ','], [',', 'VB'], ['VB', ','], [',', 'CC'], ['CC', 'VB'], ['VB', 'PRP$'], ['PRP$', 'NN'], ['NN', '.']]
+ENABLEMENT'S TUPLE LIST:
+[[wishes, to], [buy, ,], [win, ,]]
+ENABLEMENT:
+{wishes: buy, buy: win, win: steal}
+
+SENTENCE:
+One of the neighboring houses is owned by Marcus Lycus, who is a buyer and seller of beautiful women; the other belongs to the ancient Erronius, who is abroad searching for his long-lost children (stolen in infancy by pirates).
+[One,one,NUM,CD,nsubjpass]
+[of,of,ADP,IN,prep]
+[the,the,DET,DT,det]
+[neighboring,neighbor,VERB,VBG,compound]
+[houses,house,NOUN,NNS,pobj]
+[is,be,AUX,VBZ,auxpass]
+[owned,own,VERB,VBN,ccomp]
+[by,by,ADP,IN,agent]
+[Marcus,Marcus,PROPN,NNP,compound]
+[Lycus,Lycus,PROPN,NNP,pobj]
+[,,,,PUNCT,,,punct]
+[who,who,PRON,WP,nsubj]
+[is,be,AUX,VBZ,relcl]
+[a,a,DET,DT,det]
+[buyer,buyer,NOUN,NN,attr]
+[and,and,CCONJ,CC,cc]
+[seller,seller,NOUN,NN,conj]
+[of,of,ADP,IN,prep]
+[beautiful,beautiful,ADJ,JJ,amod]
+[women,woman,NOUN,NNS,pobj]
+[;,;,PUNCT,:,punct]
+[the,the,DET,DT,det]
+[other,other,ADJ,JJ,nsubj]
+[belongs,belong,VERB,VBZ,ROOT]
+[to,to,ADP,IN,prep]
+[the,the,DET,DT,det]
+[ancient,ancient,ADJ,JJ,amod]
+[Erronius,Erronius,PROPN,NNP,pobj]
+[,,,,PUNCT,,,punct]
+[who,who,PRON,WP,nsubj]
+[is,be,AUX,VBZ,relcl]
+[abroad,abroad,ADV,RB,advmod]
+[searching,search,VERB,VBG,advcl]
+[for,for,ADP,IN,prep]
+[his,-PRON-,DET,PRP$,poss]
+[long,long,ADV,RB,advmod]
+[-,-,PUNCT,HYPH,punct]
+[lost,lose,VERB,VBN,amod]
+[children,child,NOUN,NNS,pobj]
+[(,(,PUNCT,-LRB-,punct]
+[stolen,steal,VERB,VBN,acl]
+[in,in,ADP,IN,prep]
+[infancy,infancy,NOUN,NN,pobj]
+[by,by,ADP,IN,agent]
+[pirates,pirate,NOUN,NNS,pobj]
+[),),PUNCT,-RRB-,punct]
+[.,.,PUNCT,.,punct]
+VERB:
+[neighboring, owned, belongs, searching, lost, stolen]
+TOKEN HYPERNIUM: 
+[neighboring] :[Synset('neighbor.v.01'), Synset('neighbor.v.02')]
+[[Synset('be.v.03'), Synset('populate.v.01'), Synset('neighbor.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.03.be')],['be%2:42:05::'])
+([Lemma('populate.v.01.populate'), Lemma('populate.v.01.dwell'), Lemma('populate.v.01.live'), Lemma('populate.v.01.inhabit')],['populate%2:42:00::', 'dwell%2:42:00::', 'live%2:42:08::', 'inhabit%2:42:00::'])
+([Lemma('neighbor.v.01.neighbor'), Lemma('neighbor.v.01.neighbour')],['neighbor%2:42:01::', 'neighbour%2:42:01::'])
+[[Synset('touch.v.05'), Synset('border.v.05'), Synset('neighbor.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('touch.v.05.touch'), Lemma('touch.v.05.adjoin'), Lemma('touch.v.05.meet'), Lemma('touch.v.05.contact')],['touch%2:35:01::', 'adjoin%2:35:03::', 'meet%2:35:00::', 'contact%2:35:03::'])
+([Lemma('border.v.05.border'), Lemma('border.v.05.adjoin'), Lemma('border.v.05.edge'), Lemma('border.v.05.abut'), Lemma('border.v.05.march'), Lemma('border.v.05.butt'), Lemma('border.v.05.butt_against'), Lemma('border.v.05.butt_on')],['border%2:35:00::', 'adjoin%2:35:02::', 'edge%2:35:00::', 'abut%2:35:00::', 'march%2:35:00::', 'butt%2:35:02::', 'butt_against%2:35:00::', 'butt_on%2:35:00::'])
+([Lemma('neighbor.v.02.neighbor'), Lemma('neighbor.v.02.neighbour')],['neighbor%2:42:00::', 'neighbour%2:42:00::'])
+TOKEN HYPERNIUM: 
+[owned] :[Synset('own.v.01')]
+[[Synset('own.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('own.v.01.own'), Lemma('own.v.01.have'), Lemma('own.v.01.possess')],['own%2:40:00::', 'have%2:40:04::', 'possess%2:40:00::'])
+TOKEN HYPERNIUM: 
+[belongs] :[Synset('belong.v.01'), Synset('belong.v.02'), Synset('belong.v.03'), Synset('belong.v.04'), Synset('belong.v.05'), Synset('belong_to.v.01')]
+[[Synset('be.v.01'), Synset('belong.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('belong.v.01.belong')],['belong%2:40:00::'])
+[[Synset('be.v.01'), Synset('belong.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('belong.v.02.belong')],['belong%2:42:02::'])
+[[Synset('be.v.03'), Synset('belong.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.03.be')],['be%2:42:05::'])
+([Lemma('belong.v.03.belong'), Lemma('belong.v.03.go')],['belong%2:42:03::', 'go%2:42:04::'])
+[[Synset('be.v.01'), Synset('belong.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('belong.v.04.belong')],['belong%2:42:01::'])
+[[Synset('be.v.01'), Synset('belong.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('belong.v.05.belong')],['belong%2:42:07::'])
+[[Synset('belong_to.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('belong_to.v.01.belong_to'), Lemma('belong_to.v.01.belong')],['belong_to%2:42:00::', 'belong%2:42:06::'])
+TOKEN HYPERNIUM: 
+[searching] :[Synset('search.v.01'), Synset('search.v.02'), Synset('research.v.02'), Synset('search.v.04')]
+[[Synset('search.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('search.v.01.search'), Lemma('search.v.01.seek'), Lemma('search.v.01.look_for')],['search%2:35:00::', 'seek%2:35:00::', 'look_for%2:35:00::'])
+[[Synset('examine.v.02'), Synset('search.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('examine.v.02.examine'), Lemma('examine.v.02.see')],['examine%2:39:00::', 'see%2:39:13::'])
+([Lemma('search.v.02.search'), Lemma('search.v.02.look')],['search%2:39:00::', 'look%2:39:02::'])
+[[Synset('analyze.v.01'), Synset('investigate.v.01'), Synset('research.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('analyze.v.01.analyze'), Lemma('analyze.v.01.analyse'), Lemma('analyze.v.01.study'), Lemma('analyze.v.01.examine'), Lemma('analyze.v.01.canvass'), Lemma('analyze.v.01.canvas')],['analyze%2:31:00::', 'analyse%2:31:00::', 'study%2:31:02::', 'examine%2:31:00::', 'canvass%2:31:02::', 'canvas%2:31:02::'])
+([Lemma('investigate.v.01.investigate'), Lemma('investigate.v.01.look_into')],['investigate%2:32:00::', 'look_into%2:32:00::'])
+([Lemma('research.v.02.research'), Lemma('research.v.02.search'), Lemma('research.v.02.explore')],['research%2:31:00::', 'search%2:31:00::', 'explore%2:31:00::'])
+[[Synset('examine.v.02'), Synset('search.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('examine.v.02.examine'), Lemma('examine.v.02.see')],['examine%2:39:00::', 'see%2:39:13::'])
+([Lemma('search.v.04.search')],['search%2:35:01::'])
+TOKEN HYPERNIUM: 
+[lost] :[Synset('lose.v.01'), Synset('lose.v.02'), Synset('lose.v.03'), Synset('misplace.v.01'), Synset('lose.v.05'), Synset('lose.v.06'), Synset('lose.v.07'), Synset('lose.v.08'), Synset('fall_back.v.04'), Synset('miss.v.01'), Synset('suffer.v.11')]
+[[Synset('lose.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('lose.v.01.lose')],['lose%2:40:02::'])
+[[Synset('lose.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('lose.v.02.lose')],['lose%2:33:00::'])
+[[Synset('feel.v.01'), Synset('suffer.v.03'), Synset('lose.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('feel.v.01.feel'), Lemma('feel.v.01.experience')],['feel%2:37:00::', 'experience%2:37:00::'])
+([Lemma('suffer.v.03.suffer')],['suffer%2:37:00::'])
+([Lemma('lose.v.03.lose')],['lose%2:37:00::'])
+[[Synset('move.v.02'), Synset('put.v.01'), Synset('misplace.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.02.move'), Lemma('move.v.02.displace')],['move%2:38:01::', 'displace%2:38:02::'])
+([Lemma('put.v.01.put'), Lemma('put.v.01.set'), Lemma('put.v.01.place'), Lemma('put.v.01.pose'), Lemma('put.v.01.position'), Lemma('put.v.01.lay')],['put%2:35:00::', 'set%2:35:00::', 'place%2:35:00::', 'pose%2:35:02::', 'position%2:35:00::', 'lay%2:35:01::'])
+([Lemma('misplace.v.01.misplace'), Lemma('misplace.v.01.mislay'), Lemma('misplace.v.01.lose')],['misplace%2:35:01::', 'mislay%2:35:00::', 'lose%2:35:00::'])
+[[Synset('lose.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('lose.v.05.lose')],['lose%2:40:01::'])
+[[Synset('lose.v.06')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('lose.v.06.lose')],['lose%2:39:00::'])
+[[Synset('lose.v.07')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('lose.v.07.lose'), Lemma('lose.v.07.turn_a_loss')],['lose%2:40:06::', 'turn_a_loss%2:40:00::'])
+[[Synset('lose.v.08')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('lose.v.08.lose')],['lose%2:40:00::'])
+[[Synset('change.v.02'), Synset('change_state.v.01'), Synset('worsen.v.01'), Synset('regress.v.03'), Synset('fall_back.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_state.v.01.change_state'), Lemma('change_state.v.01.turn')],['change_state%2:30:00::', 'turn%2:30:04::'])
+([Lemma('worsen.v.01.worsen'), Lemma('worsen.v.01.decline')],['worsen%2:30:00::', 'decline%2:30:01::'])
+([Lemma('regress.v.03.regress'), Lemma('regress.v.03.retrograde'), Lemma('regress.v.03.retrogress')],['regress%2:30:00::', 'retrograde%2:30:00::', 'retrogress%2:30:00::'])
+([Lemma('fall_back.v.04.fall_back'), Lemma('fall_back.v.04.lose'), Lemma('fall_back.v.04.drop_off'), Lemma('fall_back.v.04.fall_behind'), Lemma('fall_back.v.04.recede')],['fall_back%2:33:00::', 'lose%2:33:01::', 'drop_off%2:33:00::', 'fall_behind%2:33:00::', 'recede%2:33:00::'])
+[[Synset('miss.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('miss.v.01.miss'), Lemma('miss.v.01.lose')],['miss%2:39:00::', 'lose%2:39:01::'])
+[[Synset('change.v.02'), Synset('change_state.v.01'), Synset('worsen.v.01'), Synset('suffer.v.11')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_state.v.01.change_state'), Lemma('change_state.v.01.turn')],['change_state%2:30:00::', 'turn%2:30:04::'])
+([Lemma('worsen.v.01.worsen'), Lemma('worsen.v.01.decline')],['worsen%2:30:00::', 'decline%2:30:01::'])
+([Lemma('suffer.v.11.suffer'), Lemma('suffer.v.11.lose')],['suffer%2:30:02::', 'lose%2:30:03::'])
+TOKEN HYPERNIUM: 
+[stolen] :[Synset('steal.v.01'), Synset('steal.v.02'), Synset('steal.v.03')]
+[[Synset('take.v.21'), Synset('steal.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('take.v.21.take')],['take%2:40:01::'])
+([Lemma('steal.v.01.steal')],['steal%2:40:00::'])
+[[Synset('move.v.03'), Synset('steal.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.03.move')],['move%2:38:00::'])
+([Lemma('steal.v.02.steal'), Lemma('steal.v.02.slip')],['steal%2:38:00::', 'slip%2:38:01::'])
+[[Synset('gain.v.05'), Synset('steal.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('gain.v.05.gain'), Lemma('gain.v.05.advance'), Lemma('gain.v.05.win'), Lemma('gain.v.05.pull_ahead'), Lemma('gain.v.05.make_headway'), Lemma('gain.v.05.get_ahead'), Lemma('gain.v.05.gain_ground')],['gain%2:33:00::', 'advance%2:33:00::', 'win%2:33:01::', 'pull_ahead%2:33:00::', 'make_headway%2:33:00::', 'get_ahead%2:33:00::', 'gain_ground%2:33:00::'])
+([Lemma('steal.v.03.steal')],['steal%2:33:00::'])
+TOKEN AND TOKEN NEXT LIST:
+[[One, of], [of, the], [the, neighboring], [neighboring, houses], [houses, is], [is, owned], [owned, by], [by, Marcus], [Marcus, Lycus], [Lycus, ,], [,, who], [who, is], [is, a], [a, buyer], [buyer, and], [and, seller], [seller, of], [of, beautiful], [beautiful, women], [women, ;], [;, the], [the, other], [other, belongs], [belongs, to], [to, the], [the, ancient], [ancient, Erronius], [Erronius, ,], [,, who], [who, is], [is, abroad], [abroad, searching], [searching, for], [for, his], [his, long], [long, -], [-, lost], [lost, children], [children, (], [(, stolen], [stolen, in], [in, infancy], [infancy, by], [by, pirates], [pirates, )], [), .]]
+TOKEN'S TAG AND TOKEN'S TAG NEXT LIST:
+[['CD', 'IN'], ['IN', 'DT'], ['DT', 'VBG'], ['VBG', 'NNS'], ['NNS', 'VBZ'], ['VBZ', 'VBN'], ['VBN', 'IN'], ['IN', 'NNP'], ['NNP', 'NNP'], ['NNP', ','], [',', 'WP'], ['WP', 'VBZ'], ['VBZ', 'DT'], ['DT', 'NN'], ['NN', 'CC'], ['CC', 'NN'], ['NN', 'IN'], ['IN', 'JJ'], ['JJ', 'NNS'], ['NNS', ':'], [':', 'DT'], ['DT', 'JJ'], ['JJ', 'VBZ'], ['VBZ', 'IN'], ['IN', 'DT'], ['DT', 'JJ'], ['JJ', 'NNP'], ['NNP', ','], [',', 'WP'], ['WP', 'VBZ'], ['VBZ', 'RB'], ['RB', 'VBG'], ['VBG', 'IN'], ['IN', 'PRP$'], ['PRP$', 'RB'], ['RB', 'HYPH'], ['HYPH', 'VBN'], ['VBN', 'NNS'], ['NNS', '-LRB-'], ['-LRB-', 'VBN'], ['VBN', 'IN'], ['IN', 'NN'], ['NN', 'IN'], ['IN', 'NNS'], ['NNS', '-RRB-'], ['-RRB-', '.']]
+ENABLEMENT'S TUPLE LIST:
+[[belongs, to]]
+ENABLEMENT:
+{belongs: owned}
+
+SENTENCE:
+One day, Senex and Domina go on a trip and leave Pseudolus in charge of Hero.
+[One,one,NUM,CD,nummod]
+[day,day,NOUN,NN,npadvmod]
+[,,,,PUNCT,,,punct]
+[Senex,Senex,PROPN,NNP,nsubj]
+[and,and,CCONJ,CC,cc]
+[Domina,Domina,PROPN,NNP,conj]
+[go,go,VERB,VBP,ROOT]
+[on,on,ADP,IN,prep]
+[a,a,DET,DT,det]
+[trip,trip,NOUN,NN,pobj]
+[and,and,CCONJ,CC,cc]
+[leave,leave,VERB,VB,conj]
+[Pseudolus,Pseudolus,PROPN,NNP,dobj]
+[in,in,ADP,IN,prep]
+[charge,charge,NOUN,NN,pobj]
+[of,of,ADP,IN,prep]
+[Hero,Hero,PROPN,NNP,pobj]
+[.,.,PUNCT,.,punct]
+VERB:
+[go, leave]
+TOKEN HYPERNIUM: 
+[go] :[Synset('travel.v.01'), Synset('go.v.02'), Synset('go.v.03'), Synset('become.v.01'), Synset('go.v.05'), Synset('run.v.05'), Synset('run.v.03'), Synset('proceed.v.04'), Synset('go.v.09'), Synset('go.v.10'), Synset('sound.v.02'), Synset('function.v.01'), Synset('run_low.v.01'), Synset('move.v.13'), Synset('survive.v.01'), Synset('go.v.16'), Synset('die.v.01'), Synset('belong.v.03'), Synset('go.v.19'), Synset('start.v.09'), Synset('move.v.15'), Synset('go.v.22'), Synset('go.v.23'), Synset('blend.v.02'), Synset('go.v.25'), Synset('fit.v.02'), Synset('rifle.v.02'), Synset('go.v.28'), Synset('plump.v.04'), Synset('fail.v.04')]
+[[Synset('travel.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('travel.v.01.travel'), Lemma('travel.v.01.go'), Lemma('travel.v.01.move'), Lemma('travel.v.01.locomote')],['travel%2:38:00::', 'go%2:38:00::', 'move%2:38:03::', 'locomote%2:38:00::'])
+[[Synset('act.v.01'), Synset('go.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('go.v.02.go'), Lemma('go.v.02.proceed'), Lemma('go.v.02.move')],['go%2:41:00::', 'proceed%2:41:00::', 'move%2:41:01::'])
+[[Synset('move.v.03'), Synset('exit.v.01'), Synset('go.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.03.move')],['move%2:38:00::'])
+([Lemma('exit.v.01.exit'), Lemma('exit.v.01.go_out'), Lemma('exit.v.01.get_out'), Lemma('exit.v.01.leave')],['exit%2:38:00::', 'go_out%2:38:00::', 'get_out%2:38:01::', 'leave%2:38:00::'])
+([Lemma('go.v.03.go'), Lemma('go.v.03.go_away'), Lemma('go.v.03.depart')],['go%2:38:01::', 'go_away%2:38:05::', 'depart%2:38:04::'])
+[[Synset('change.v.02'), Synset('change_state.v.01'), Synset('become.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_state.v.01.change_state'), Lemma('change_state.v.01.turn')],['change_state%2:30:00::', 'turn%2:30:04::'])
+([Lemma('become.v.01.become'), Lemma('become.v.01.go'), Lemma('become.v.01.get')],['become%2:30:00::', 'go%2:30:04::', 'get%2:30:00::'])
+[[Synset('go.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('go.v.05.go')],['go%2:42:06::'])
+[[Synset('be.v.01'), Synset('run.v.05')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('run.v.05.run'), Lemma('run.v.05.go')],['run%2:42:04::', 'go%2:42:02::'])
+[[Synset('be.v.03'), Synset('run.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.03.be')],['be%2:42:05::'])
+([Lemma('run.v.03.run'), Lemma('run.v.03.go'), Lemma('run.v.03.pass'), Lemma('run.v.03.lead'), Lemma('run.v.03.extend')],['run%2:42:00::', 'go%2:42:00::', 'pass%2:42:08::', 'lead%2:42:00::', 'extend%2:42:03::'])
+[[Synset('happen.v.01'), Synset('proceed.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('happen.v.01.happen'), Lemma('happen.v.01.hap'), Lemma('happen.v.01.go_on'), Lemma('happen.v.01.pass_off'), Lemma('happen.v.01.occur'), Lemma('happen.v.01.pass'), Lemma('happen.v.01.fall_out'), Lemma('happen.v.01.come_about'), Lemma('happen.v.01.take_place')],['happen%2:30:00::', 'hap%2:30:00::', 'go_on%2:30:00::', 'pass_off%2:30:00::', 'occur%2:30:00::', 'pass%2:30:00::', 'fall_out%2:30:00::', 'come_about%2:30:00::', 'take_place%2:30:00::'])
+([Lemma('proceed.v.04.proceed'), Lemma('proceed.v.04.go')],['proceed%2:30:00::', 'go%2:30:01::'])
+[[Synset('disappear.v.01'), Synset('go.v.09')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('disappear.v.01.disappear'), Lemma('disappear.v.01.vanish'), Lemma('disappear.v.01.go_away')],['disappear%2:30:00::', 'vanish%2:30:00::', 'go_away%2:30:00::'])
+([Lemma('go.v.09.go')],['go%2:30:08::'])
+[[Synset('be.v.01'), Synset('go.v.10')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('go.v.10.go')],['go%2:42:07::'])
+[[Synset('cause_to_be_perceived.v.01'), Synset('sound.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('cause_to_be_perceived.v.01.cause_to_be_perceived')],['cause_to_be_perceived%2:39:00::'])
+([Lemma('sound.v.02.sound'), Lemma('sound.v.02.go')],['sound%2:39:00::', 'go%2:39:00::'])
+[[Synset('function.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('function.v.01.function'), Lemma('function.v.01.work'), Lemma('function.v.01.operate'), Lemma('function.v.01.go'), Lemma('function.v.01.run')],['function%2:35:00::', 'work%2:35:02::', 'operate%2:35:03::', 'go%2:35:00::', 'run%2:35:00::'])
+[[Synset('end.v.01'), Synset('run_low.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('end.v.01.end'), Lemma('end.v.01.stop'), Lemma('end.v.01.finish'), Lemma('end.v.01.terminate'), Lemma('end.v.01.cease')],['end%2:42:00::', 'stop%2:42:13::', 'finish%2:42:00::', 'terminate%2:42:00::', 'cease%2:42:13::'])
+([Lemma('run_low.v.01.run_low'), Lemma('run_low.v.01.run_short'), Lemma('run_low.v.01.go')],['run_low%2:34:00::', 'run_short%2:34:00::', 'go%2:34:00::'])
+[[Synset('change.v.02'), Synset('move.v.13')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('move.v.13.move'), Lemma('move.v.13.go'), Lemma('move.v.13.run')],['move%2:30:01::', 'go%2:30:02::', 'run%2:30:02::'])
+[[Synset('survive.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('survive.v.01.survive'), Lemma('survive.v.01.last'), Lemma('survive.v.01.live'), Lemma('survive.v.01.live_on'), Lemma('survive.v.01.go'), Lemma('survive.v.01.endure'), Lemma('survive.v.01.hold_up'), Lemma('survive.v.01.hold_out')],['survive%2:42:01::', 'last%2:42:01::', 'live%2:42:04::', 'live_on%2:42:00::', 'go%2:42:14::', 'endure%2:42:00::', 'hold_up%2:42:00::', 'hold_out%2:42:00::'])
+[[Synset('go.v.16')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('go.v.16.go')],['go%2:42:03::'])
+[[Synset('change.v.02'), Synset('change_state.v.01'), Synset('die.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('change_state.v.01.change_state'), Lemma('change_state.v.01.turn')],['change_state%2:30:00::', 'turn%2:30:04::'])
+([Lemma('die.v.01.die'), Lemma('die.v.01.decease'), Lemma('die.v.01.perish'), Lemma('die.v.01.go'), Lemma('die.v.01.exit'), Lemma('die.v.01.pass_away'), Lemma('die.v.01.expire'), Lemma('die.v.01.pass'), Lemma('die.v.01.kick_the_bucket'), Lemma('die.v.01.cash_in_one's_chips'), Lemma('die.v.01.buy_the_farm'), Lemma('die.v.01.conk'), Lemma('die.v.01.give-up_the_ghost'), Lemma('die.v.01.drop_dead'), Lemma('die.v.01.pop_off'), Lemma('die.v.01.choke'), Lemma('die.v.01.croak'), Lemma('die.v.01.snuff_it')],['die%2:30:00::', 'decease%2:30:00::', 'perish%2:30:00::', 'go%2:30:00::', 'exit%2:30:00::', 'pass_away%2:30:00::', 'expire%2:30:00::', 'pass%2:30:11::', 'kick_the_bucket%2:30:00::', "cash_in_one's_chips%2:30:00::", 'buy_the_farm%2:30:00::', 'conk%2:30:00::', 'give-up_the_ghost%2:30:00::', 'drop_dead%2:30:00::', 'pop_off%2:30:00::', 'choke%2:30:01::', 'croak%2:30:00::', 'snuff_it%2:30:00::'])
+[[Synset('be.v.03'), Synset('belong.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.03.be')],['be%2:42:05::'])
+([Lemma('belong.v.03.belong'), Lemma('belong.v.03.go')],['belong%2:42:03::', 'go%2:42:04::'])
+[[Synset('be.v.01'), Synset('compare.v.02'), Synset('go.v.19')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('compare.v.02.compare')],['compare%2:42:00::'])
+([Lemma('go.v.19.go')],['go%2:42:10::'])
+[[Synset('start.v.09')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('start.v.09.start'), Lemma('start.v.09.go'), Lemma('start.v.09.get_going')],['start%2:38:00::', 'go%2:38:09::', 'get_going%2:38:00::'])
+[[Synset('move.v.15')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.15.move'), Lemma('move.v.15.go')],['move%2:33:00::', 'go%2:33:00::'])
+[[Synset('go.v.22')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('go.v.22.go')],['go%2:42:13::'])
+[[Synset('go.v.23')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('go.v.23.go')],['go%2:42:12::'])
+[[Synset('equal.v.01'), Synset('match.v.01'), Synset('harmonize.v.01'), Synset('blend.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('equal.v.01.equal'), Lemma('equal.v.01.be')],['equal%2:42:00::', 'be%2:42:07::'])
+([Lemma('match.v.01.match'), Lemma('match.v.01.fit'), Lemma('match.v.01.correspond'), Lemma('match.v.01.check'), Lemma('match.v.01.jibe'), Lemma('match.v.01.gibe'), Lemma('match.v.01.tally'), Lemma('match.v.01.agree')],['match%2:42:00::', 'fit%2:42:04::', 'correspond%2:42:00::', 'check%2:42:08::', 'jibe%2:42:00::', 'gibe%2:42:00::', 'tally%2:42:00::', 'agree%2:42:00::'])
+([Lemma('harmonize.v.01.harmonize'), Lemma('harmonize.v.01.harmonise'), Lemma('harmonize.v.01.consort'), Lemma('harmonize.v.01.accord'), Lemma('harmonize.v.01.concord'), Lemma('harmonize.v.01.fit_in'), Lemma('harmonize.v.01.agree')],['harmonize%2:42:00::', 'harmonise%2:42:00::', 'consort%2:42:00::', 'accord%2:42:00::', 'concord%2:42:00::', 'fit_in%2:42:00::', 'agree%2:42:01::'])
+([Lemma('blend.v.02.blend'), Lemma('blend.v.02.go'), Lemma('blend.v.02.blend_in')],['blend%2:42:00::', 'go%2:42:11::', 'blend_in%2:42:00::'])
+[[Synset('be.v.03'), Synset('go.v.25')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.03.be')],['be%2:42:05::'])
+([Lemma('go.v.25.go'), Lemma('go.v.25.lead')],['go%2:42:08::', 'lead%2:42:03::'])
+[[Synset('be.v.01'), Synset('fit.v.07'), Synset('fit.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('be.v.01.be')],['be%2:42:03::'])
+([Lemma('fit.v.07.fit')],['fit%2:42:03::'])
+([Lemma('fit.v.02.fit'), Lemma('fit.v.02.go')],['fit%2:42:02::', 'go%2:42:05::'])
+[[Synset('examine.v.02'), Synset('search.v.04'), Synset('rifle.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('examine.v.02.examine'), Lemma('examine.v.02.see')],['examine%2:39:00::', 'see%2:39:13::'])
+([Lemma('search.v.04.search')],['search%2:35:01::'])
+([Lemma('rifle.v.02.rifle'), Lemma('rifle.v.02.go')],['rifle%2:35:13::', 'go%2:35:13::'])
+[[Synset('go.v.28')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('go.v.28.go')],['go%2:34:09::'])
+[[Synset('decide.v.01'), Synset('choose.v.01'), Synset('plump.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('decide.v.01.decide'), Lemma('decide.v.01.make_up_one's_mind'), Lemma('decide.v.01.determine')],['decide%2:31:00::', "make_up_one's_mind%2:31:00::", 'determine%2:31:00::'])
+([Lemma('choose.v.01.choose'), Lemma('choose.v.01.take'), Lemma('choose.v.01.select'), Lemma('choose.v.01.pick_out')],['choose%2:31:00::', 'take%2:31:01::', 'select%2:31:00::', 'pick_out%2:31:00::'])
+([Lemma('plump.v.04.plump'), Lemma('plump.v.04.go')],['plump%2:31:12::', 'go%2:31:12::'])
+[[Synset('change.v.02'), Synset('fail.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('fail.v.04.fail'), Lemma('fail.v.04.go_bad'), Lemma('fail.v.04.give_way'), Lemma('fail.v.04.die'), Lemma('fail.v.04.give_out'), Lemma('fail.v.04.conk_out'), Lemma('fail.v.04.go'), Lemma('fail.v.04.break'), Lemma('fail.v.04.break_down')],['fail%2:30:00::', 'go_bad%2:30:01::', 'give_way%2:30:00::', 'die%2:30:04::', 'give_out%2:30:00::', 'conk_out%2:30:00::', 'go%2:30:03::', 'break%2:30:05::', 'break_down%2:30:00::'])
+TOKEN HYPERNIUM: 
+[leave] :[Synset('leave.v.01'), Synset('leave.v.02'), Synset('leave.v.03'), Synset('leave.v.04'), Synset('exit.v.01'), Synset('leave.v.06'), Synset('leave.v.07'), Synset('leave.v.08'), Synset('entrust.v.02'), Synset('bequeath.v.01'), Synset('leave.v.11'), Synset('leave.v.12'), Synset('impart.v.01'), Synset('forget.v.04')]
+[[Synset('leave.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('leave.v.01.leave'), Lemma('leave.v.01.go_forth'), Lemma('leave.v.01.go_away')],['leave%2:38:01::', 'go_forth%2:38:00::', 'go_away%2:38:00::'])
+[[Synset('leave.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('leave.v.02.leave')],['leave%2:31:05::'])
+[[Synset('change.v.01'), Synset('make.v.02'), Synset('leave.v.03')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.01.change'), Lemma('change.v.01.alter'), Lemma('change.v.01.modify')],['change%2:30:01::', 'alter%2:30:01::', 'modify%2:30:10::'])
+([Lemma('make.v.02.make'), Lemma('make.v.02.get')],['make%2:30:00::', 'get%2:30:01::'])
+([Lemma('leave.v.03.leave')],['leave%2:42:02::'])
+[[Synset('refrain.v.01'), Synset('leave.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('refrain.v.01.refrain'), Lemma('refrain.v.01.forbear')],['refrain%2:42:00::', 'forbear%2:42:00::'])
+([Lemma('leave.v.04.leave'), Lemma('leave.v.04.leave_alone'), Lemma('leave.v.04.leave_behind')],['leave%2:30:02::', 'leave_alone%2:30:00::', 'leave_behind%2:30:03::'])
+[[Synset('move.v.03'), Synset('exit.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('move.v.03.move')],['move%2:38:00::'])
+([Lemma('exit.v.01.exit'), Lemma('exit.v.01.go_out'), Lemma('exit.v.01.get_out'), Lemma('exit.v.01.leave')],['exit%2:38:00::', 'go_out%2:38:00::', 'get_out%2:38:01::', 'leave%2:38:00::'])
+[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('supply.v.01'), Synset('yield.v.01'), Synset('leave.v.06')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('give.v.03.give')],['give%2:40:00::'])
+([Lemma('supply.v.01.supply'), Lemma('supply.v.01.provide'), Lemma('supply.v.01.render'), Lemma('supply.v.01.furnish')],['supply%2:40:00::', 'provide%2:40:00::', 'render%2:40:02::', 'furnish%2:40:00::'])
+([Lemma('yield.v.01.yield'), Lemma('yield.v.01.give'), Lemma('yield.v.01.afford')],['yield%2:40:02::', 'give%2:40:05::', 'afford%2:40:00::'])
+([Lemma('leave.v.06.leave'), Lemma('leave.v.06.allow_for'), Lemma('leave.v.06.allow'), Lemma('leave.v.06.provide')],['leave%2:42:01::', 'allow_for%2:42:00::', 'allow%2:42:00::', 'provide%2:42:00::'])
+[[Synset('make.v.03'), Synset('produce.v.03'), Synset('leave.v.07')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('make.v.03.make'), Lemma('make.v.03.create')],['make%2:36:00::', 'create%2:36:00::'])
+([Lemma('produce.v.03.produce'), Lemma('produce.v.03.bring_about'), Lemma('produce.v.03.give_rise')],['produce%2:36:03::', 'bring_about%2:36:03::', 'give_rise%2:36:01::'])
+([Lemma('leave.v.07.leave'), Lemma('leave.v.07.result'), Lemma('leave.v.07.lead')],['leave%2:42:00::', 'result%2:42:02::', 'lead%2:42:04::'])
+[[Synset('change.v.02'), Synset('leave.v.08')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('change.v.02.change')],['change%2:30:00::'])
+([Lemma('leave.v.08.leave'), Lemma('leave.v.08.depart'), Lemma('leave.v.08.pull_up_stakes')],['leave%2:41:00::', 'depart%2:41:00::', 'pull_up_stakes%2:41:00::'])
+[[Synset('transfer.v.05'), Synset('pass.v.05'), Synset('entrust.v.02')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('pass.v.05.pass'), Lemma('pass.v.05.hand'), Lemma('pass.v.05.reach'), Lemma('pass.v.05.pass_on'), Lemma('pass.v.05.turn_over'), Lemma('pass.v.05.give')],['pass%2:40:00::', 'hand%2:40:00::', 'reach%2:40:00::', 'pass_on%2:40:01::', 'turn_over%2:40:00::', 'give%2:40:06::'])
+([Lemma('entrust.v.02.entrust'), Lemma('entrust.v.02.leave')],['entrust%2:40:01::', 'leave%2:40:06::'])
+[[Synset('give.v.08'), Synset('bequeath.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('give.v.08.give'), Lemma('give.v.08.gift'), Lemma('give.v.08.present')],['give%2:40:01::', 'gift%2:40:00::', 'present%2:40:00::'])
+([Lemma('bequeath.v.01.bequeath'), Lemma('bequeath.v.01.will'), Lemma('bequeath.v.01.leave')],['bequeath%2:40:00::', 'will%2:40:00::', 'leave%2:40:01::'])
+[[Synset('have.v.09'), Synset('leave.v.11')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('have.v.09.have')],['have%2:40:01::'])
+([Lemma('leave.v.11.leave')],['leave%2:42:03::'])
+[[Synset('leave.v.12')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('leave.v.12.leave'), Lemma('leave.v.12.leave_behind')],['leave%2:30:03::', 'leave_behind%2:30:00::'])
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('tell.v.02'), Synset('impart.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('tell.v.02.tell')],['tell%2:32:00::'])
+([Lemma('impart.v.01.impart'), Lemma('impart.v.01.leave'), Lemma('impart.v.01.give'), Lemma('impart.v.01.pass_on')],['impart%2:40:00::', 'leave%2:40:02::', 'give%2:40:09::', 'pass_on%2:40:03::'])
+[[Synset('lose.v.05'), Synset('forget.v.04')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('lose.v.05.lose')],['lose%2:40:01::'])
+([Lemma('forget.v.04.forget'), Lemma('forget.v.04.leave')],['forget%2:31:02::', 'leave%2:31:02::'])
+TOKEN AND TOKEN NEXT LIST:
+[[One, day], [day, ,], [,, Senex], [Senex, and], [and, Domina], [Domina, go], [go, on], [on, a], [a, trip], [trip, and], [and, leave], [leave, Pseudolus], [Pseudolus, in], [in, charge], [charge, of], [of, Hero], [Hero, .]]
+TOKEN'S TAG AND TOKEN'S TAG NEXT LIST:
+[['CD', 'NN'], ['NN', ','], [',', 'NNP'], ['NNP', 'CC'], ['CC', 'NNP'], ['NNP', 'VBP'], ['VBP', 'IN'], ['IN', 'DT'], ['DT', 'NN'], ['NN', 'CC'], ['CC', 'VB'], ['VB', 'NNP'], ['NNP', 'IN'], ['IN', 'NN'], ['NN', 'IN'], ['IN', 'NNP'], ['NNP', '.']]
+ENABLEMENT'S TUPLE LIST:
+[[go, on]]
+ENABLEMENT:
+{go: leave}
+
+SENTENCE:
+Hero confides in Pseudolus that he is in love with the lovely Philia, one of the courtesans in the House of Lycus (albeit still a virgin).
+[Hero,Hero,PROPN,NNP,nsubj]
+[confides,confide,VERB,VBZ,ROOT]
+[in,in,ADP,IN,prep]
+[Pseudolus,Pseudolus,PROPN,NNP,pobj]
+[that,that,SCONJ,IN,mark]
+[he,-PRON-,PRON,PRP,nsubj]
+[is,be,AUX,VBZ,ccomp]
+[in,in,ADP,IN,prep]
+[love,love,NOUN,NN,pobj]
+[with,with,ADP,IN,prep]
+[the,the,DET,DT,det]
+[lovely,lovely,ADJ,JJ,amod]
+[Philia,Philia,PROPN,NNP,pobj]
+[,,,,PUNCT,,,punct]
+[one,one,NUM,CD,appos]
+[of,of,ADP,IN,prep]
+[the,the,DET,DT,det]
+[courtesans,courtesan,NOUN,NNS,pobj]
+[in,in,ADP,IN,prep]
+[the,the,DET,DT,det]
+[House,House,PROPN,NNP,pobj]
+[of,of,ADP,IN,prep]
+[Lycus,Lycus,PROPN,NNP,pobj]
+[(,(,PUNCT,-LRB-,punct]
+[albeit,albeit,SCONJ,IN,advmod]
+[still,still,ADV,RB,advmod]
+[a,a,DET,DT,det]
+[virgin,virgin,NOUN,NN,appos]
+[),),PUNCT,-RRB-,punct]
+[.,.,PUNCT,.,punct]
+VERB:
+[confides]
+TOKEN HYPERNIUM: 
+[confides] :[Synset('confide.v.01'), Synset('entrust.v.01')]
+[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('inform.v.01'), Synset('tell.v.02'), Synset('unwrap.v.02'), Synset('confide.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('act.v.01.act'), Lemma('act.v.01.move')],['act%2:41:00::', 'move%2:41:00::'])
+([Lemma('interact.v.01.interact')],['interact%2:41:00::'])
+([Lemma('communicate.v.02.communicate'), Lemma('communicate.v.02.intercommunicate')],['communicate%2:32:00::', 'intercommunicate%2:32:00::'])
+([Lemma('inform.v.01.inform')],['inform%2:32:00::'])
+([Lemma('tell.v.02.tell')],['tell%2:32:00::'])
+([Lemma('unwrap.v.02.unwrap'), Lemma('unwrap.v.02.disclose'), Lemma('unwrap.v.02.let_on'), Lemma('unwrap.v.02.bring_out'), Lemma('unwrap.v.02.reveal'), Lemma('unwrap.v.02.discover'), Lemma('unwrap.v.02.expose'), Lemma('unwrap.v.02.divulge'), Lemma('unwrap.v.02.break'), Lemma('unwrap.v.02.give_away'), Lemma('unwrap.v.02.let_out')],['unwrap%2:32:00::', 'disclose%2:32:00::', 'let_on%2:32:00::', 'bring_out%2:32:06::', 'reveal%2:32:00::', 'discover%2:32:04::', 'expose%2:32:01::', 'divulge%2:32:00::', 'break%2:32:00::', 'give_away%2:32:00::', 'let_out%2:32:00::'])
+([Lemma('confide.v.01.confide')],['confide%2:32:00::'])
+[[Synset('transfer.v.05'), Synset('pass.v.05'), Synset('entrust.v.01')]]
+LEMMAS FOR ANYONE SYNSET:
+([Lemma('transfer.v.05.transfer')],['transfer%2:40:00::'])
+([Lemma('pass.v.05.pass'), Lemma('pass.v.05.hand'), Lemma('pass.v.05.reach'), Lemma('pass.v.05.pass_on'), Lemma('pass.v.05.turn_over'), Lemma('pass.v.05.give')],['pass%2:40:00::', 'hand%2:40:00::', 'reach%2:40:00::', 'pass_on%2:40:01::', 'turn_over%2:40:00::', 'give%2:40:06::'])
+([Lemma('entrust.v.01.entrust'), Lemma('entrust.v.01.intrust'), Lemma('entrust.v.01.trust'), Lemma('entrust.v.01.confide'), Lemma('entrust.v.01.commit')],['entrust%2:40:00::', 'intrust%2:40:00::', 'trust%2:40:00::', 'confide%2:40:00::', 'commit%2:40:00::'])
+TOKEN AND TOKEN NEXT LIST:
+[[Hero, confides], [confides, in], [in, Pseudolus], [Pseudolus, that], [that, he], [he, is], [is, in], [in, love], [love, with], [with, the], [the, lovely], [lovely, Philia], [Philia, ,], [,, one], [one, of], [of, the], [the, courtesans], [courtesans, in], [in, the], [the, House], [House, of], [of, Lycus], [Lycus, (], [(, albeit], [albeit, still], [still, a], [a, virgin], [virgin, )], [), .]]
+TOKEN'S TAG AND TOKEN'S TAG NEXT LIST:
+[['NNP', 'VBZ'], ['VBZ', 'IN'], ['IN', 'NNP'], ['NNP', 'IN'], ['IN', 'PRP'], ['PRP', 'VBZ'], ['VBZ', 'IN'], ['IN', 'NN'], ['NN', 'IN'], ['IN', 'DT'], ['DT', 'JJ'], ['JJ', 'NNP'], ['NNP', ','], [',', 'CD'], ['CD', 'IN'], ['IN', 'DT'], ['DT', 'NNS'], ['NNS', 'IN'], ['IN', 'DT'], ['DT', 'NNP'], ['NNP', 'IN'], ['IN', 'NNP'], ['NNP', '-LRB-'], ['-LRB-', 'IN'], ['IN', 'RB'], ['RB', 'DT'], ['DT', 'NN'], ['NN', '-RRB-'], ['-RRB-', '.']]
+THERE ISN'T ENABLEMENT!
+
+EVENT PAIR TOTALLY FOUND:
+[(wishes, buy), (buy, win), (win, steal), (belongs, owned), (go, leave)]
+VERB:
+[live]
+VERB:
+[lives, including]
+VERB:
+[belonging, wishes, buy, win, steal]
+VERB:
+[neighboring, owned, belongs, searching, lost, stolen]
+VERB:
+[go, leave]
+VERB:
+[confides]
+CAUSAL RELATION MATCH: 1
+CAUSAL RELATION NO MATCH: 2
+NO CAUSAL RELATION MATCH: 0
+NO CAUSAL RELATION NO MATCH: 3
+PATTERN'S PROBABILITY TO HAVE COME FROM INDIPENDENT VARIABLES: 0.5
+VERB:
+[live]
+VERB:
+[lives, including]
+VERB:
+[belonging, wishes, buy, win, steal]
+VERB:
+[neighboring, owned, belongs, searching, lost, stolen]
+VERB:
+[go, leave]
+VERB:
+[confides]
+CAUSAL RELATION MATCH: 1
+CAUSAL RELATION NO MATCH: 2
+NO CAUSAL RELATION MATCH: 0
+NO CAUSAL RELATION NO MATCH: 3
+PATTERN'S PROBABILITY TO HAVE COME FROM INDIPENDENT VARIABLES: 0.5
+VERB:
+[live]
+VERB:
+[lives, including]
+VERB:
+[belonging, wishes, buy, win, steal]
+VERB:
+[neighboring, owned, belongs, searching, lost, stolen]
+VERB:
+[go, leave]
+VERB:
+[confides]
+CAUSAL RELATION MATCH: 1
+CAUSAL RELATION NO MATCH: 2
+NO CAUSAL RELATION MATCH: 0
+NO CAUSAL RELATION NO MATCH: 3
+PATTERN'S PROBABILITY TO HAVE COME FROM INDIPENDENT VARIABLES: 0.5
+VERB:
+[live]
+VERB:
+[lives, including]
+VERB:
+[belonging, wishes, buy, win, steal]
+VERB:
+[neighboring, owned, belongs, searching, lost, stolen]
+VERB:
+[go, leave]
+VERB:
+[confides]
+CAUSAL RELATION MATCH: 1
+CAUSAL RELATION NO MATCH: 2
+NO CAUSAL RELATION MATCH: 0
+NO CAUSAL RELATION NO MATCH: 3
+PATTERN'S PROBABILITY TO HAVE COME FROM INDIPENDENT VARIABLES: 0.5
+VERB:
+[live]
+VERB:
+[lives, including]
+VERB:
+[belonging, wishes, buy, win, steal]
+VERB:
+[neighboring, owned, belongs, searching, lost, stolen]
+VERB:
+[go, leave]
+VERB:
+[confides]
+CAUSAL RELATION MATCH: 1
+CAUSAL RELATION NO MATCH: 2
+NO CAUSAL RELATION MATCH: 0
+NO CAUSAL RELATION NO MATCH: 3
+PATTERN'S PROBABILITY TO HAVE COME FROM INDIPENDENT VARIABLES: 0.5
+EVENT PAIR TOTALLY FOUND, WITH TARGETS:
+{'wishes': 1, 'buy': 1, 'win': 1, 'belongs': 1, 'go': 1}
+PATTERN wishes PRECISION: 0.16666666666666666
+PATTERN wishes RECALL: 0.3333333333333333
+PATTERN wishes F1: 0.2222222222222222
+PATTERN buy PRECISION: 0.3333333333333333
+PATTERN buy RECALL: 0.6666666666666666
+PATTERN buy F1: 0.4444444444444444
+PATTERN win PRECISION: 0.16666666666666666
+PATTERN win RECALL: 0.3333333333333333
+PATTERN win F1: 0.2222222222222222
+PATTERN belongs PRECISION: 0.16666666666666666
+PATTERN belongs RECALL: 0.3333333333333333
+PATTERN belongs F1: 0.2222222222222222
+PATTERN go PRECISION: 0.16666666666666666
+PATTERN go RECALL: 0.3333333333333333
+PATTERN go F1: 0.2222222222222222
